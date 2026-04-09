@@ -3,7 +3,7 @@ import { Link, NavLink } from "react-router-dom"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faSearch, faTshirt, faBars, faClose, faUsers, faFlag, faChartLine } from '@fortawesome/free-solid-svg-icons'
 import { useState } from 'react'
-import LaLigaLogo from '../../assets/images/laliga-logo.svg';
+import LaLigaLogo from '../../assets/images/laliga-logo.png';
 
 const Sidebar = () => {
     const [showNav, setShowNav] = useState(false)

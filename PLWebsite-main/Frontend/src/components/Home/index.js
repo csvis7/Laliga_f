@@ -3,7 +3,7 @@ import Loader from 'react-loaders';
 import { Link } from 'react-router-dom';
 import AnimatedLetters from '../AnimatedLetters';
 import './index.scss';
-import LaLigaLogo from '../../assets/images/laliga-logo.svg';
+import LaLigaLogo from '../../assets/images/laliga-logo.png';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')

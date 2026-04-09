@@ -24,7 +24,11 @@ const Predictions = () => {
   return (
     <div className="container predictions-page">
       <h1 className="page-title">
-        <AnimatedLetters letterClass="text-animate" strArray={"Predictions".split("")} idx={12} />
+        <AnimatedLetters
+          letterClass="text-animate"
+          strArray={"Predictions".split("")}
+          idx={12}
+        />
       </h1>
 
       {loading && <p>Loading predictions...</p>}
