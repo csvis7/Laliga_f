@@ -1,0 +1,601 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+0,2025-08-15,17:00,La Liga,,Fri,Home,L,1,3,Rayo Vallecano,0.795304,3.25355,,,,,,Match Report,,,,,,,,2026,Girona
+1,2025-08-15,17:00,La Liga,,Fri,Away,W,3,1,Girona,3.25355,0.795304,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+2,2025-08-15,19:30,La Liga,,Fri,Away,L,0,2,Villarreal,0.85578,2.60739,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+3,2025-08-15,19:30,La Liga,,Fri,Home,W,2,0,Real Oviedo,2.60739,0.85578,,,,,,Match Report,,,,,,,,2026,Villarreal
+4,2025-08-16,19:30,La Liga,,Sat,Home,W,2,1,Levante,1.72315,0.74203,,,,,,Match Report,,,,,,,,2026,Alaves
+5,2025-08-16,17:30,La Liga,,Sat,Away,W,3,0,Mallorca,2.0243,0.529217,,,,,,Match Report,,,,,,,,2026,Barcelona
+6,2025-08-16,19:30,La Liga,,Sat,Away,L,1,2,Alaves,0.74203,1.72315,,,,,,Match Report,,,,,,,,2026,Levante
+7,2025-08-16,17:30,La Liga,,Sat,Home,L,0,3,Barcelona,0.529217,2.0243,,,,,,Match Report,,,,,,,,2026,Mallorca
+8,2025-08-16,19:30,La Liga,,Sat,Away,D,1,1,Valencia,1.04897,1.58599,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+9,2025-08-16,19:30,La Liga,,Sat,Home,D,1,1,Real Sociedad,1.58599,1.04897,,,,,,Match Report,,,,,,,,2026,Valencia
+10,2025-08-17,17:30,La Liga,,Sun,Home,W,3,2,Sevilla,2.67586,0.901645,,,,,,Match Report,,,,,,,,2026,Athletic Club
+11,2025-08-17,19:30,La Liga,,Sun,Away,L,1,2,Espanyol,1.29319,1.41508,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+12,2025-08-17,15:00,La Liga,,Sun,Home,L,0,2,Getafe,0.744247,1.50131,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+13,2025-08-17,19:30,La Liga,,Sun,Home,W,2,1,Atletico Madrid,1.41508,1.29319,,,,,,Match Report,,,,,,,,2026,Espanyol
+14,2025-08-17,15:00,La Liga,,Sun,Away,W,2,0,Celta Vigo,1.50131,0.744247,,,,,,Match Report,,,,,,,,2026,Getafe
+15,2025-08-17,17:30,La Liga,,Sun,Away,L,2,3,Athletic Club,0.901645,2.67586,,,,,,Match Report,,,,,,,,2026,Sevilla
+16,2025-08-18,19:00,La Liga,,Mon,Home,D,1,1,Real Betis,0.981494,1.59562,,,,,,Match Report,,,,,,,,2026,Elche
+17,2025-08-18,19:00,La Liga,,Mon,Away,D,1,1,Elche,1.59562,0.981494,,,,,,Match Report,,,,,,,,2026,Real Betis
+18,2025-08-19,19:00,La Liga,,Tue,Away,L,0,1,Real Madrid,0.201044,1.4294,,,,,,Match Report,,,,,,,,2026,Osasuna
+19,2025-08-19,19:00,La Liga,,Tue,Home,W,1,0,Osasuna,1.4294,0.201044,,,,,,Match Report,,,,,,,,2026,Real Madrid
+20,2025-08-22,19:30,La Liga,,Fri,Away,L,0,1,Real Betis,1.43838,2.13985,,,,,,Match Report,,,,,,,,2026,Alaves
+21,2025-08-22,19:30,La Liga,,Fri,Home,W,1,0,Alaves,2.13985,1.43838,,,,,,Match Report,,,,,,,,2026,Real Betis
+22,2025-08-23,17:30,La Liga,,Sat,Home,D,1,1,Elche,1.68159,0.313268,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+23,2025-08-23,19:30,La Liga,,Sat,Away,W,3,2,Levante,2.48128,2.68812,,,,,,Match Report,,,,,,,,2026,Barcelona
+24,2025-08-23,15:00,La Liga,,Sat,Away,D,1,1,Mallorca,0.917413,0.664974,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+25,2025-08-23,17:30,La Liga,,Sat,Away,D,1,1,Atletico Madrid,0.313268,1.68159,,,,,,Match Report,,,,,,,,2026,Elche
+26,2025-08-23,19:30,La Liga,,Sat,Home,L,2,3,Barcelona,2.68812,2.48128,,,,,,Match Report,,,,,,,,2026,Levante
+27,2025-08-23,15:00,La Liga,,Sat,Home,D,1,1,Celta Vigo,0.664974,0.917413,,,,,,Match Report,,,,,,,,2026,Mallorca
+28,2025-08-24,17:30,La Liga,,Sun,Away,D,2,2,Real Sociedad,1.87234,1.43366,,,,,,Match Report,,,,,,,,2026,Espanyol
+29,2025-08-24,17:30,La Liga,,Sun,Away,L,0,5,Villarreal,0.140267,2.97707,,,,,,Match Report,,,,,,,,2026,Girona
+30,2025-08-24,15:00,La Liga,,Sun,Home,W,1,0,Valencia,0.946758,0.589594,,,,,,Match Report,,,,,,,,2026,Osasuna
+31,2025-08-24,19:30,La Liga,,Sun,Away,W,3,0,Real Oviedo,1.82072,0.33749,,,,,,Match Report,,,,,,,,2026,Real Madrid
+32,2025-08-24,19:30,La Liga,,Sun,Home,L,0,3,Real Madrid,0.33749,1.82072,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+33,2025-08-24,17:30,La Liga,,Sun,Home,D,2,2,Espanyol,1.43366,1.87234,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+34,2025-08-24,15:00,La Liga,,Sun,Away,L,0,1,Osasuna,0.589594,0.946758,,,,,,Match Report,,,,,,,,2026,Valencia
+35,2025-08-24,17:30,La Liga,,Sun,Home,W,5,0,Girona,2.97707,0.140267,,,,,,Match Report,,,,,,,,2026,Villarreal
+36,2025-08-25,17:30,La Liga,,Mon,Home,W,1,0,Rayo Vallecano,1.68759,0.493587,,,,,,Match Report,,,,,,,,2026,Athletic Club
+37,2025-08-25,19:30,La Liga,,Mon,Away,W,2,1,Sevilla,1.32944,0.833075,,,,,,Match Report,,,,,,,,2026,Getafe
+38,2025-08-25,17:30,La Liga,,Mon,Away,L,0,1,Athletic Club,0.493587,1.68759,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+39,2025-08-25,19:30,La Liga,,Mon,Home,L,1,2,Getafe,0.833075,1.32944,,,,,,Match Report,,,,,,,,2026,Sevilla
+40,2025-08-27,19:00,La Liga,,Wed,Home,D,1,1,Real Betis,0.905201,0.714458,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+41,2025-08-27,19:00,La Liga,,Wed,Away,D,1,1,Celta Vigo,0.714458,0.905201,,,,,,Match Report,,,,,,,,2026,Real Betis
+42,2025-08-29,17:30,La Liga,,Fri,Home,W,2,0,Levante,1.44309,0.969663,,,,,,Match Report,,,,,,,,2026,Elche
+43,2025-08-29,19:30,La Liga,,Fri,Away,L,0,3,Valencia,0.757418,1.54336,,,,,,Match Report,,,,,,,,2026,Getafe
+44,2025-08-29,17:30,La Liga,,Fri,Away,L,0,2,Elche,0.969663,1.44309,,,,,,Match Report,,,,,,,,2026,Levante
+45,2025-08-29,19:30,La Liga,,Fri,Home,W,3,0,Getafe,1.54336,0.757418,,,,,,Match Report,,,,,,,,2026,Valencia
+46,2025-08-30,15:00,La Liga,,Sat,Home,D,1,1,Atletico Madrid,0.855094,0.960547,,,,,,Match Report,,,,,,,,2026,Alaves
+47,2025-08-30,15:00,La Liga,,Sat,Away,D,1,1,Alaves,0.960547,0.855094,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+48,2025-08-30,17:30,La Liga,,Sat,Home,L,0,2,Sevilla,2.00908,1.62032,,,,,,Match Report,,,,,,,,2026,Girona
+49,2025-08-30,19:30,La Liga,,Sat,Away,L,1,2,Real Madrid,0.549872,1.84116,,,,,,Match Report,,,,,,,,2026,Mallorca
+50,2025-08-30,19:30,La Liga,,Sat,Home,W,2,1,Mallorca,1.84116,0.549872,,,,,,Match Report,,,,,,,,2026,Real Madrid
+51,2025-08-30,17:00,La Liga,,Sat,Home,W,1,0,Real Sociedad,0.45706,0.92221,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+52,2025-08-30,17:00,La Liga,,Sat,Away,L,0,1,Real Oviedo,0.92221,0.45706,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+53,2025-08-30,17:30,La Liga,,Sat,Away,W,2,0,Girona,1.62032,2.00908,,,,,,Match Report,,,,,,,,2026,Sevilla
+54,2025-08-31,17:00,La Liga,,Sun,Away,W,2,1,Real Betis,1.11141,0.716186,,,,,,Match Report,,,,,,,,2026,Athletic Club
+55,2025-08-31,19:30,La Liga,,Sun,Away,D,1,1,Rayo Vallecano,2.35774,1.87124,,,,,,Match Report,,,,,,,,2026,Barcelona
+56,2025-08-31,15:00,La Liga,,Sun,Home,D,1,1,Villarreal,0.876041,0.96978,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+57,2025-08-31,17:30,La Liga,,Sun,Home,W,1,0,Osasuna,1.36886,1.38167,,,,,,Match Report,,,,,,,,2026,Espanyol
+58,2025-08-31,17:30,La Liga,,Sun,Away,L,0,1,Espanyol,1.38167,1.36886,,,,,,Match Report,,,,,,,,2026,Osasuna
+59,2025-08-31,19:30,La Liga,,Sun,Home,D,1,1,Barcelona,1.87124,2.35774,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+60,2025-08-31,17:00,La Liga,,Sun,Home,L,1,2,Athletic Club,0.716186,1.11141,,,,,,Match Report,,,,,,,,2026,Real Betis
+61,2025-08-31,15:00,La Liga,,Sun,Away,D,1,1,Celta Vigo,0.96978,0.876041,,,,,,Match Report,,,,,,,,2026,Villarreal
+62,2025-09-12,19:00,La Liga,,Fri,Away,D,2,2,Sevilla,0.781151,0.346397,,,,,,Match Report,,,,,,,,2026,Elche
+63,2025-09-12,19:00,La Liga,,Fri,Home,D,2,2,Elche,0.346397,0.781151,,,,,,Match Report,,,,,,,,2026,Sevilla
+64,2025-09-13,16:30,La Liga,,Sat,Away,W,1,0,Athletic Club,0.090756,0.866662,,,,,,Match Report,,,,,,,,2026,Alaves
+65,2025-09-13,16:30,La Liga,,Sat,Home,L,0,1,Alaves,0.866662,0.090756,,,,,,Match Report,,,,,,,,2026,Athletic Club
+66,2025-09-13,19:00,La Liga,,Sat,Home,W,2,0,Villarreal,1.5106,0.668177,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+67,2025-09-13,12:00,La Liga,,Sat,Home,W,2,0,Real Oviedo,0.954087,0.369812,,,,,,Match Report,,,,,,,,2026,Getafe
+68,2025-09-13,14:15,La Liga,,Sat,Away,W,2,1,Real Sociedad,2.54171,3.14772,,,,,,Match Report,,,,,,,,2026,Real Madrid
+69,2025-09-13,12:00,La Liga,,Sat,Away,L,0,2,Getafe,0.369812,0.954087,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+70,2025-09-13,14:15,La Liga,,Sat,Home,L,1,2,Real Madrid,3.14772,2.54171,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+71,2025-09-13,19:00,La Liga,,Sat,Away,L,0,2,Atletico Madrid,0.668177,1.5106,,,,,,Match Report,,,,,,,,2026,Villarreal
+72,2025-09-14,19:00,La Liga,,Sun,Home,W,6,0,Valencia,3.46022,0.12495,,,,,,Match Report,,,,,,,,2026,Barcelona
+73,2025-09-14,12:00,La Liga,,Sun,Home,D,1,1,Girona,1.80278,1.41213,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+74,2025-09-14,12:00,La Liga,,Sun,Away,D,1,1,Celta Vigo,1.41213,1.80278,,,,,,Match Report,,,,,,,,2026,Girona
+75,2025-09-14,14:15,La Liga,,Sun,Home,D,2,2,Real Betis,1.02425,2.19546,,,,,,Match Report,,,,,,,,2026,Levante
+76,2025-09-14,16:30,La Liga,,Sun,Home,W,2,0,Rayo Vallecano,1.4012,0.979149,,,,,,Match Report,,,,,,,,2026,Osasuna
+77,2025-09-14,16:30,La Liga,,Sun,Away,L,0,2,Osasuna,0.979149,1.4012,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+78,2025-09-14,14:15,La Liga,,Sun,Away,D,2,2,Levante,2.19546,1.02425,,,,,,Match Report,,,,,,,,2026,Real Betis
+79,2025-09-14,19:00,La Liga,,Sun,Away,L,0,6,Barcelona,0.12495,3.46022,,,,,,Match Report,,,,,,,,2026,Valencia
+80,2025-09-15,19:00,La Liga,,Mon,Home,W,3,2,Mallorca,2.67405,2.03185,,,,,,Match Report,,,,,,,,2026,Espanyol
+81,2025-09-15,19:00,La Liga,,Mon,Away,L,2,3,Espanyol,2.03185,2.67405,,,,,,Match Report,,,,,,,,2026,Mallorca
+82,2025-09-19,19:00,La Liga,,Fri,Home,W,3,1,Real Sociedad,2.53579,0.606673,,,,,,Match Report,,,,,,,,2026,Real Betis
+83,2025-09-19,19:00,La Liga,,Fri,Away,L,1,3,Real Betis,0.606673,2.53579,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+84,2025-09-20,16:30,La Liga,,Sat,Home,L,1,2,Sevilla,0.910257,0.891992,,,,,,Match Report,,,,,,,,2026,Alaves
+85,2025-09-20,19:00,La Liga,,Sat,Away,L,0,2,Valencia,0.499198,2.01007,,,,,,Match Report,,,,,,,,2026,Athletic Club
+86,2025-09-20,14:15,La Liga,,Sat,Away,L,0,2,Real Madrid,0.969443,2.06136,,,,,,Match Report,,,,,,,,2026,Espanyol
+87,2025-09-20,12:00,La Liga,,Sat,Home,L,0,4,Levante,0.423855,4.50183,,,,,,Match Report,,,,,,,,2026,Girona
+88,2025-09-20,12:00,La Liga,,Sat,Away,W,4,0,Girona,4.50183,0.423855,,,,,,Match Report,,,,,,,,2026,Levante
+89,2025-09-20,16:30,La Liga,,Sat,Away,L,1,2,Villarreal,1.95599,3.56395,,,,,,Match Report,,,,,,,,2026,Osasuna
+90,2025-09-20,14:15,La Liga,,Sat,Home,W,2,0,Espanyol,2.06136,0.969443,,,,,,Match Report,,,,,,,,2026,Real Madrid
+91,2025-09-20,16:30,La Liga,,Sat,Away,W,2,1,Alaves,0.891992,0.910257,,,,,,Match Report,,,,,,,,2026,Sevilla
+92,2025-09-20,19:00,La Liga,,Sat,Home,W,2,0,Athletic Club,2.01007,0.499198,,,,,,Match Report,,,,,,,,2026,Valencia
+93,2025-09-20,16:30,La Liga,,Sat,Home,W,2,1,Osasuna,3.56395,1.95599,,,,,,Match Report,,,,,,,,2026,Villarreal
+94,2025-09-21,14:15,La Liga,,Sun,Away,D,1,1,Mallorca,2.08772,0.530939,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+95,2025-09-21,19:00,La Liga,,Sun,Home,W,3,0,Getafe,2.96429,0.215949,,,,,,Match Report,,,,,,,,2026,Barcelona
+96,2025-09-21,12:00,La Liga,,Sun,Away,D,1,1,Rayo Vallecano,1.28175,1.3145,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+97,2025-09-21,16:30,La Liga,,Sun,Home,W,1,0,Real Oviedo,1.57497,1.10565,,,,,,Match Report,,,,,,,,2026,Elche
+98,2025-09-21,19:00,La Liga,,Sun,Away,L,0,3,Barcelona,0.215949,2.96429,,,,,,Match Report,,,,,,,,2026,Getafe
+99,2025-09-21,14:15,La Liga,,Sun,Home,D,1,1,Atletico Madrid,0.530939,2.08772,,,,,,Match Report,,,,,,,,2026,Mallorca
+100,2025-09-21,12:00,La Liga,,Sun,Home,D,1,1,Celta Vigo,1.3145,1.28175,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+101,2025-09-21,16:30,La Liga,,Sun,Away,L,0,1,Elche,1.10565,1.57497,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+102,2025-09-23,17:00,La Liga,,Tue,Home,D,1,1,Girona,2.02629,0.856618,,,,,,Match Report,,,,,,,,2026,Athletic Club
+103,2025-09-23,17:00,La Liga,,Tue,Home,D,2,2,Valencia,3.31313,1.00785,,,,,,Match Report,,,,,,,,2026,Espanyol
+104,2025-09-23,17:00,La Liga,,Tue,Away,D,1,1,Athletic Club,0.856618,2.02629,,,,,,Match Report,,,,,,,,2026,Girona
+105,2025-09-23,19:30,La Liga,,Tue,Home,L,1,4,Real Madrid,1.70121,4.06315,,,,,,Match Report,,,,,,,,2026,Levante
+106,2025-09-23,19:30,La Liga,,Tue,Away,W,4,1,Levante,4.06315,1.70121,,,,,,Match Report,,,,,,,,2026,Real Madrid
+107,2025-09-23,19:30,La Liga,,Tue,Home,L,1,2,Villarreal,0.83617,2.40523,,,,,,Match Report,,,,,,,,2026,Sevilla
+108,2025-09-23,17:00,La Liga,,Tue,Away,D,2,2,Espanyol,1.00785,3.31313,,,,,,Match Report,,,,,,,,2026,Valencia
+109,2025-09-23,19:30,La Liga,,Tue,Away,W,2,1,Sevilla,2.40523,0.83617,,,,,,Match Report,,,,,,,,2026,Villarreal
+110,2025-09-24,17:00,La Liga,,Wed,Away,D,1,1,Getafe,1.21176,0.576203,,,,,,Match Report,,,,,,,,2026,Alaves
+111,2025-09-24,19:30,La Liga,,Wed,Home,W,3,2,Rayo Vallecano,4.95017,1.61988,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+112,2025-09-24,17:00,La Liga,,Wed,Home,D,1,1,Alaves,0.576203,1.21176,,,,,,Match Report,,,,,,,,2026,Getafe
+113,2025-09-24,19:30,La Liga,,Wed,Away,L,0,1,Real Sociedad,0.641137,2.82857,,,,,,Match Report,,,,,,,,2026,Mallorca
+114,2025-09-24,19:30,La Liga,,Wed,Away,L,2,3,Atletico Madrid,1.61988,4.95017,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+115,2025-09-24,19:30,La Liga,,Wed,Home,W,1,0,Mallorca,2.82857,0.641137,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+116,2025-09-25,19:30,La Liga,,Thu,Away,W,3,1,Real Oviedo,2.07001,1.45014,,,,,,Match Report,,,,,,,,2026,Barcelona
+117,2025-09-25,17:30,La Liga,,Thu,Away,D,1,1,Osasuna,1.05089,1.17524,,,,,,Match Report,,,,,,,,2026,Elche
+118,2025-09-25,17:30,La Liga,,Thu,Home,D,1,1,Elche,1.17524,1.05089,,,,,,Match Report,,,,,,,,2026,Osasuna
+119,2025-09-25,19:30,La Liga,,Thu,Home,L,1,3,Barcelona,1.45014,2.07001,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+120,2025-09-26,19:00,La Liga,,Fri,Away,D,0,0,Girona,0.949116,1.07661,,,,,,Match Report,,,,,,,,2026,Espanyol
+121,2025-09-26,19:00,La Liga,,Fri,Home,D,0,0,Espanyol,1.07661,0.949116,,,,,,Match Report,,,,,,,,2026,Girona
+122,2025-09-27,16:30,La Liga,,Sat,Away,L,0,1,Mallorca,0.566415,1.04267,,,,,,Match Report,,,,,,,,2026,Alaves
+123,2025-09-27,19:00,La Liga,,Sat,Away,L,0,1,Villarreal,1.56287,1.86396,,,,,,Match Report,,,,,,,,2026,Athletic Club
+124,2025-09-27,14:15,La Liga,,Sat,Home,W,5,2,Real Madrid,2.79075,1.02797,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+125,2025-09-27,12:00,La Liga,,Sat,Home,D,1,1,Levante,0.830967,1.27833,,,,,,Match Report,,,,,,,,2026,Getafe
+126,2025-09-27,12:00,La Liga,,Sat,Away,D,1,1,Getafe,1.27833,0.830967,,,,,,Match Report,,,,,,,,2026,Levante
+127,2025-09-27,16:30,La Liga,,Sat,Home,W,1,0,Alaves,1.04267,0.566415,,,,,,Match Report,,,,,,,,2026,Mallorca
+128,2025-09-27,14:15,La Liga,,Sat,Away,L,2,5,Atletico Madrid,1.02797,2.79075,,,,,,Match Report,,,,,,,,2026,Real Madrid
+129,2025-09-27,19:00,La Liga,,Sat,Home,W,1,0,Athletic Club,1.86396,1.56287,,,,,,Match Report,,,,,,,,2026,Villarreal
+130,2025-09-28,16:30,La Liga,,Sun,Home,W,2,1,Real Sociedad,3.00954,0.957079,,,,,,Match Report,,,,,,,,2026,Barcelona
+131,2025-09-28,14:15,La Liga,,Sun,Away,L,1,2,Elche,0.821768,4.03596,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+132,2025-09-28,14:15,La Liga,,Sun,Home,W,2,1,Celta Vigo,4.03596,0.821768,,,,,,Match Report,,,,,,,,2026,Elche
+133,2025-09-28,19:00,La Liga,,Sun,Away,L,0,2,Real Betis,0.578485,1.18955,,,,,,Match Report,,,,,,,,2026,Osasuna
+134,2025-09-28,12:00,La Liga,,Sun,Home,L,0,1,Sevilla,1.89093,0.579597,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+135,2025-09-28,19:00,La Liga,,Sun,Home,W,2,0,Osasuna,1.18955,0.578485,,,,,,Match Report,,,,,,,,2026,Real Betis
+136,2025-09-28,16:30,La Liga,,Sun,Away,L,1,2,Barcelona,0.957079,3.00954,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+137,2025-09-28,12:00,La Liga,,Sun,Away,W,1,0,Rayo Vallecano,0.579597,1.89093,,,,,,Match Report,,,,,,,,2026,Sevilla
+138,2025-09-29,19:00,La Liga,,Mon,Away,W,2,1,Valencia,0.997143,1.72261,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+139,2025-09-29,19:00,La Liga,,Mon,Home,L,1,2,Real Oviedo,1.72261,0.997143,,,,,,Match Report,,,,,,,,2026,Valencia
+140,2025-10-03,19:00,La Liga,,Fri,Away,L,1,2,Osasuna,0.856515,0.692026,,,,,,Match Report,,,,,,,,2026,Getafe
+141,2025-10-03,19:00,La Liga,,Fri,Home,W,2,1,Getafe,0.692026,0.856515,,,,,,Match Report,,,,,,,,2026,Osasuna
+142,2025-10-04,16:30,La Liga,,Sat,Home,W,2,1,Mallorca,1.73351,0.213773,,,,,,Match Report,,,,,,,,2026,Athletic Club
+143,2025-10-04,14:15,La Liga,,Sat,Home,W,2,1,Valencia,1.16415,2.22808,,,,,,Match Report,,,,,,,,2026,Girona
+144,2025-10-04,12:00,La Liga,,Sat,Away,W,2,0,Real Oviedo,1.62121,1.08551,,,,,,Match Report,,,,,,,,2026,Levante
+145,2025-10-04,16:30,La Liga,,Sat,Away,L,1,2,Athletic Club,0.213773,1.73351,,,,,,Match Report,,,,,,,,2026,Mallorca
+146,2025-10-04,19:00,La Liga,,Sat,Home,W,3,1,Villarreal,4.32336,0.956644,,,,,,Match Report,,,,,,,,2026,Real Madrid
+147,2025-10-04,12:00,La Liga,,Sat,Home,L,0,2,Levante,1.08551,1.62121,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+148,2025-10-04,14:15,La Liga,,Sat,Away,L,1,2,Girona,2.22808,1.16415,,,,,,Match Report,,,,,,,,2026,Valencia
+149,2025-10-04,19:00,La Liga,,Sat,Away,L,1,3,Real Madrid,0.956644,4.32336,,,,,,Match Report,,,,,,,,2026,Villarreal
+150,2025-10-05,12:00,La Liga,,Sun,Home,W,3,1,Elche,2.85063,0.661537,,,,,,Match Report,,,,,,,,2026,Alaves
+151,2025-10-05,19:00,La Liga,,Sun,Away,D,1,1,Celta Vigo,0.710823,2.27285,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+152,2025-10-05,14:15,La Liga,,Sun,Away,L,1,4,Sevilla,2.4823,2.89414,,,,,,Match Report,,,,,,,,2026,Barcelona
+153,2025-10-05,19:00,La Liga,,Sun,Home,D,1,1,Atletico Madrid,2.27285,0.710823,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+154,2025-10-05,12:00,La Liga,,Sun,Away,L,1,3,Alaves,0.661537,2.85063,,,,,,Match Report,,,,,,,,2026,Elche
+155,2025-10-05,16:30,La Liga,,Sun,Home,L,1,2,Real Betis,2.0699,1.43721,,,,,,Match Report,,,,,,,,2026,Espanyol
+156,2025-10-05,16:30,La Liga,,Sun,Away,W,1,0,Real Sociedad,0.684504,0.768998,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+157,2025-10-05,16:30,La Liga,,Sun,Away,W,2,1,Espanyol,1.43721,2.0699,,,,,,Match Report,,,,,,,,2026,Real Betis
+158,2025-10-05,16:30,La Liga,,Sun,Home,L,0,1,Rayo Vallecano,0.768998,0.684504,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+159,2025-10-05,14:15,La Liga,,Sun,Home,W,4,1,Barcelona,2.89414,2.4823,,,,,,Match Report,,,,,,,,2026,Sevilla
+160,2025-10-17,19:00,La Liga,,Fri,Away,W,2,0,Real Oviedo,4.46256,1.21155,,,,,,Match Report,,,,,,,,2026,Espanyol
+161,2025-10-17,19:00,La Liga,,Fri,Home,L,0,2,Espanyol,1.21155,4.46256,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+162,2025-10-18,19:00,La Liga,,Sat,Home,W,1,0,Osasuna,2.24415,0.981492,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+163,2025-10-18,14:15,La Liga,,Sat,Home,W,2,1,Girona,2.41958,1.69375,,,,,,Match Report,,,,,,,,2026,Barcelona
+164,2025-10-18,14:15,La Liga,,Sat,Away,L,1,2,Barcelona,1.69375,2.41958,,,,,,Match Report,,,,,,,,2026,Girona
+165,2025-10-18,12:00,La Liga,,Sat,Away,W,3,1,Sevilla,1.95555,1.25884,,,,,,Match Report,,,,,,,,2026,Mallorca
+166,2025-10-18,19:00,La Liga,,Sat,Away,L,0,1,Atletico Madrid,0.981492,2.24415,,,,,,Match Report,,,,,,,,2026,Osasuna
+167,2025-10-18,16:30,La Liga,,Sat,Away,D,2,2,Villarreal,0.895532,0.980598,,,,,,Match Report,,,,,,,,2026,Real Betis
+168,2025-10-18,12:00,La Liga,,Sat,Home,L,1,3,Mallorca,1.25884,1.95555,,,,,,Match Report,,,,,,,,2026,Sevilla
+169,2025-10-18,16:30,La Liga,,Sat,Home,D,2,2,Real Betis,0.980598,0.895532,,,,,,Match Report,,,,,,,,2026,Villarreal
+170,2025-10-19,12:00,La Liga,,Sun,Away,D,0,0,Elche,0.240214,0.823916,,,,,,Match Report,,,,,,,,2026,Athletic Club
+171,2025-10-19,14:15,La Liga,,Sun,Home,D,1,1,Real Sociedad,0.717367,2.13562,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+172,2025-10-19,12:00,La Liga,,Sun,Home,D,0,0,Athletic Club,0.823916,0.240214,,,,,,Match Report,,,,,,,,2026,Elche
+173,2025-10-19,19:00,La Liga,,Sun,Home,L,0,1,Real Madrid,0.530119,2.14595,,,,,,Match Report,,,,,,,,2026,Getafe
+174,2025-10-19,16:30,La Liga,,Sun,Home,L,0,3,Rayo Vallecano,0.940509,2.53118,,,,,,Match Report,,,,,,,,2026,Levante
+175,2025-10-19,16:30,La Liga,,Sun,Away,W,3,0,Levante,2.53118,0.940509,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+176,2025-10-19,19:00,La Liga,,Sun,Away,W,1,0,Getafe,2.14595,0.530119,,,,,,Match Report,,,,,,,,2026,Real Madrid
+177,2025-10-19,14:15,La Liga,,Sun,Away,D,1,1,Celta Vigo,2.13562,0.717367,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+178,2025-10-20,19:00,La Liga,,Mon,Home,D,0,0,Valencia,1.05624,0.318076,,,,,,Match Report,,,,,,,,2026,Alaves
+179,2025-10-20,19:00,La Liga,,Mon,Away,D,0,0,Alaves,0.318076,1.05624,,,,,,Match Report,,,,,,,,2026,Valencia
+180,2025-10-24,19:00,La Liga,,Fri,Home,W,2,1,Sevilla,1.64382,0.247146,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+181,2025-10-24,19:00,La Liga,,Fri,Away,L,1,2,Real Sociedad,0.247146,1.64382,,,,,,Match Report,,,,,,,,2026,Sevilla
+182,2025-10-25,16:30,La Liga,,Sat,Home,L,0,1,Getafe,0.358524,1.00378,,,,,,Match Report,,,,,,,,2026,Athletic Club
+183,2025-10-25,14:15,La Liga,,Sat,Away,L,0,1,Espanyol,1.11414,1.70342,,,,,,Match Report,,,,,,,,2026,Elche
+184,2025-10-25,14:15,La Liga,,Sat,Home,W,1,0,Elche,1.70342,1.11414,,,,,,Match Report,,,,,,,,2026,Espanyol
+185,2025-10-25,16:30,La Liga,,Sat,Away,W,1,0,Athletic Club,1.00378,0.358524,,,,,,Match Report,,,,,,,,2026,Getafe
+186,2025-10-25,12:00,La Liga,,Sat,Home,D,3,3,Real Oviedo,2.24132,2.22406,,,,,,Match Report,,,,,,,,2026,Girona
+187,2025-10-25,12:00,La Liga,,Sat,Away,D,3,3,Girona,2.22406,2.24132,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+188,2025-10-25,19:00,La Liga,,Sat,Home,L,0,2,Villarreal,0.641435,2.62387,,,,,,Match Report,,,,,,,,2026,Valencia
+189,2025-10-25,19:00,La Liga,,Sat,Away,W,2,0,Valencia,2.62387,0.641435,,,,,,Match Report,,,,,,,,2026,Villarreal
+190,2025-10-26,20:00,La Liga,,Sun,Away,L,0,1,Rayo Vallecano,1.41466,1.54971,,,,,,Match Report,,,,,,,,2026,Alaves
+191,2025-10-26,15:15,La Liga,,Sun,Away,L,1,2,Real Madrid,1.12434,3.41322,,,,,,Match Report,,,,,,,,2026,Barcelona
+192,2025-10-26,17:30,La Liga,,Sun,Away,W,3,2,Osasuna,1.54054,2.318,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+193,2025-10-26,13:00,La Liga,,Sun,Away,D,1,1,Mallorca,2.3579,1.86979,,,,,,Match Report,,,,,,,,2026,Levante
+194,2025-10-26,13:00,La Liga,,Sun,Home,D,1,1,Levante,1.86979,2.3579,,,,,,Match Report,,,,,,,,2026,Mallorca
+195,2025-10-26,17:30,La Liga,,Sun,Home,L,2,3,Celta Vigo,2.318,1.54054,,,,,,Match Report,,,,,,,,2026,Osasuna
+196,2025-10-26,20:00,La Liga,,Sun,Home,W,1,0,Alaves,1.54971,1.41466,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+197,2025-10-26,15:15,La Liga,,Sun,Home,W,2,1,Barcelona,3.41322,1.12434,,,,,,Match Report,,,,,,,,2026,Real Madrid
+198,2025-10-27,20:00,La Liga,,Mon,Away,W,2,0,Real Betis,0.876554,1.33792,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+199,2025-10-27,20:00,La Liga,,Mon,Home,L,0,2,Atletico Madrid,1.33792,0.876554,,,,,,Match Report,,,,,,,,2026,Real Betis
+200,2025-10-31,20:00,La Liga,,Fri,Home,W,2,1,Girona,1.40213,1.54366,,,,,,Match Report,,,,,,,,2026,Getafe
+201,2025-10-31,20:00,La Liga,,Fri,Away,L,1,2,Getafe,1.54366,1.40213,,,,,,Match Report,,,,,,,,2026,Girona
+202,2025-11-01,17:30,La Liga,,Sat,Away,L,2,3,Real Sociedad,1.13112,1.8412,,,,,,Match Report,,,,,,,,2026,Athletic Club
+203,2025-11-01,15:15,La Liga,,Sat,Home,W,3,0,Sevilla,2.98632,0.376887,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+204,2025-11-01,13:00,La Liga,,Sat,Away,L,0,4,Villarreal,1.08632,2.7136,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+205,2025-11-01,20:00,La Liga,,Sat,Home,W,4,0,Valencia,2.89965,0.292177,,,,,,Match Report,,,,,,,,2026,Real Madrid
+206,2025-11-01,17:30,La Liga,,Sat,Home,W,3,2,Athletic Club,1.8412,1.13112,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+207,2025-11-01,15:15,La Liga,,Sat,Away,L,0,3,Atletico Madrid,0.376887,2.98632,,,,,,Match Report,,,,,,,,2026,Sevilla
+208,2025-11-01,20:00,La Liga,,Sat,Away,L,0,4,Real Madrid,0.292177,2.89965,,,,,,Match Report,,,,,,,,2026,Valencia
+209,2025-11-01,13:00,La Liga,,Sat,Home,W,4,0,Rayo Vallecano,2.7136,1.08632,,,,,,Match Report,,,,,,,,2026,Villarreal
+210,2025-11-02,15:15,La Liga,,Sun,Home,W,2,1,Espanyol,2.18038,1.04283,,,,,,Match Report,,,,,,,,2026,Alaves
+211,2025-11-02,17:30,La Liga,,Sun,Home,W,3,1,Elche,2.8073,0.549079,,,,,,Match Report,,,,,,,,2026,Barcelona
+212,2025-11-02,13:00,La Liga,,Sun,Away,W,2,1,Levante,1.92474,1.23651,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+213,2025-11-02,17:30,La Liga,,Sun,Away,L,1,3,Barcelona,0.549079,2.8073,,,,,,Match Report,,,,,,,,2026,Elche
+214,2025-11-02,15:15,La Liga,,Sun,Away,L,1,2,Alaves,1.04283,2.18038,,,,,,Match Report,,,,,,,,2026,Espanyol
+215,2025-11-02,13:00,La Liga,,Sun,Home,L,1,2,Celta Vigo,1.23651,1.92474,,,,,,Match Report,,,,,,,,2026,Levante
+216,2025-11-02,20:00,La Liga,,Sun,Away,L,0,3,Real Betis,0.749852,2.82134,,,,,,Match Report,,,,,,,,2026,Mallorca
+217,2025-11-02,20:00,La Liga,,Sun,Home,W,3,0,Mallorca,2.82134,0.749852,,,,,,Match Report,,,,,,,,2026,Real Betis
+218,2025-11-03,20:00,La Liga,,Mon,Away,D,0,0,Real Oviedo,0.626317,0.717473,,,,,,Match Report,,,,,,,,2026,Osasuna
+219,2025-11-03,20:00,La Liga,,Mon,Home,D,0,0,Osasuna,0.717473,0.626317,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+220,2025-11-07,20:00,La Liga,,Fri,Home,D,1,1,Real Sociedad,0.808307,1.47221,,,,,,Match Report,,,,,,,,2026,Elche
+221,2025-11-07,20:00,La Liga,,Fri,Away,D,1,1,Elche,1.47221,0.808307,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+222,2025-11-08,13:00,La Liga,,Sat,Away,L,0,1,Girona,2.00772,1.26365,,,,,,Match Report,,,,,,,,2026,Alaves
+223,2025-11-08,17:30,La Liga,,Sat,Home,W,3,1,Levante,3.03599,1.29112,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+224,2025-11-08,20:00,La Liga,,Sat,Home,L,0,2,Villarreal,0.476157,1.47118,,,,,,Match Report,,,,,,,,2026,Espanyol
+225,2025-11-08,13:00,La Liga,,Sat,Home,W,1,0,Alaves,1.26365,2.00772,,,,,,Match Report,,,,,,,,2026,Girona
+226,2025-11-08,17:30,La Liga,,Sat,Away,L,1,3,Atletico Madrid,1.29112,3.03599,,,,,,Match Report,,,,,,,,2026,Levante
+227,2025-11-08,15:15,La Liga,,Sat,Away,L,0,1,Sevilla,0.967352,1.22271,,,,,,Match Report,,,,,,,,2026,Osasuna
+228,2025-11-08,15:15,La Liga,,Sat,Home,W,1,0,Osasuna,1.22271,0.967352,,,,,,Match Report,,,,,,,,2026,Sevilla
+229,2025-11-08,20:00,La Liga,,Sat,Away,W,2,0,Espanyol,1.47118,0.476157,,,,,,Match Report,,,,,,,,2026,Villarreal
+230,2025-11-09,13:00,La Liga,,Sun,Home,W,1,0,Real Oviedo,2.65219,0.182696,,,,,,Match Report,,,,,,,,2026,Athletic Club
+231,2025-11-09,20:00,La Liga,,Sun,Away,W,4,2,Celta Vigo,3.42936,0.512253,,,,,,Match Report,,,,,,,,2026,Barcelona
+232,2025-11-09,20:00,La Liga,,Sun,Home,L,2,4,Barcelona,0.512253,3.42936,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+233,2025-11-09,17:30,La Liga,,Sun,Away,L,0,1,Mallorca,0.539674,1.30353,,,,,,Match Report,,,,,,,,2026,Getafe
+234,2025-11-09,17:30,La Liga,,Sun,Home,W,1,0,Getafe,1.30353,0.539674,,,,,,Match Report,,,,,,,,2026,Mallorca
+235,2025-11-09,15:15,La Liga,,Sun,Home,D,0,0,Real Madrid,1.60641,0.841463,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+236,2025-11-09,17:30,La Liga,,Sun,Away,D,1,1,Valencia,1.58932,1.95148,,,,,,Match Report,,,,,,,,2026,Real Betis
+237,2025-11-09,15:15,La Liga,,Sun,Away,D,0,0,Rayo Vallecano,0.841463,1.60641,,,,,,Match Report,,,,,,,,2026,Real Madrid
+238,2025-11-09,13:00,La Liga,,Sun,Away,L,0,1,Athletic Club,0.182696,2.65219,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+239,2025-11-09,17:30,La Liga,,Sun,Home,D,1,1,Real Betis,1.95148,1.58932,,,,,,Match Report,,,,,,,,2026,Valencia
+240,2025-11-21,20:00,La Liga,,Fri,Away,L,0,1,Valencia,0.67426,1.65038,,,,,,Match Report,,,,,,,,2026,Levante
+241,2025-11-21,20:00,La Liga,,Fri,Home,W,1,0,Levante,1.65038,0.67426,,,,,,Match Report,,,,,,,,2026,Valencia
+242,2025-11-22,13:00,La Liga,,Sat,Home,L,0,1,Celta Vigo,0.3056,1.32351,,,,,,Match Report,,,,,,,,2026,Alaves
+243,2025-11-22,15:15,La Liga,,Sat,Away,L,0,4,Barcelona,1.04615,2.32922,,,,,,Match Report,,,,,,,,2026,Athletic Club
+244,2025-11-22,15:15,La Liga,,Sat,Home,W,4,0,Athletic Club,2.32922,1.04615,,,,,,Match Report,,,,,,,,2026,Barcelona
+245,2025-11-22,13:00,La Liga,,Sat,Away,W,1,0,Alaves,1.32351,0.3056,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+246,2025-11-22,20:00,La Liga,,Sat,Away,L,1,2,Villarreal,1.38464,2.6371,,,,,,Match Report,,,,,,,,2026,Mallorca
+247,2025-11-22,17:30,La Liga,,Sat,Home,L,1,3,Real Sociedad,1.27964,1.76546,,,,,,Match Report,,,,,,,,2026,Osasuna
+248,2025-11-22,17:30,La Liga,,Sat,Away,W,3,1,Osasuna,1.76546,1.27964,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+249,2025-11-22,20:00,La Liga,,Sat,Home,W,2,1,Mallorca,2.6371,1.38464,,,,,,Match Report,,,,,,,,2026,Villarreal
+250,2025-11-23,17:30,La Liga,,Sun,Away,W,1,0,Getafe,1.47677,0.578828,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+251,2025-11-23,20:00,La Liga,,Sun,Home,D,2,2,Real Madrid,1.59518,3.88258,,,,,,Match Report,,,,,,,,2026,Elche
+252,2025-11-23,17:30,La Liga,,Sun,Home,L,0,1,Atletico Madrid,0.578828,1.47677,,,,,,Match Report,,,,,,,,2026,Getafe
+253,2025-11-23,15:15,La Liga,,Sun,Away,D,1,1,Real Betis,1.48903,1.5784,,,,,,Match Report,,,,,,,,2026,Girona
+254,2025-11-23,13:00,La Liga,,Sun,Away,D,0,0,Real Oviedo,0.922998,0.499406,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+255,2025-11-23,15:15,La Liga,,Sun,Home,D,1,1,Girona,1.5784,1.48903,,,,,,Match Report,,,,,,,,2026,Real Betis
+256,2025-11-23,20:00,La Liga,,Sun,Away,D,2,2,Elche,3.88258,1.59518,,,,,,Match Report,,,,,,,,2026,Real Madrid
+257,2025-11-23,13:00,La Liga,,Sun,Home,D,0,0,Rayo Vallecano,0.499406,0.922998,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+258,2025-11-24,20:00,La Liga,,Mon,Home,W,2,1,Sevilla,1.16625,1.80002,,,,,,Match Report,,,,,,,,2026,Espanyol
+259,2025-11-24,20:00,La Liga,,Mon,Away,L,1,2,Espanyol,1.80002,1.16625,,,,,,Match Report,,,,,,,,2026,Sevilla
+260,2025-11-28,20:00,La Liga,,Fri,Away,L,0,1,Getafe,0.448894,1.34046,,,,,,Match Report,,,,,,,,2026,Elche
+261,2025-11-28,20:00,La Liga,,Fri,Home,W,1,0,Elche,1.34046,0.448894,,,,,,Match Report,,,,,,,,2026,Getafe
+262,2025-11-29,15:15,La Liga,,Sat,Away,L,1,3,Barcelona,2.09256,2.51096,,,,,,Match Report,,,,,,,,2026,Alaves
+263,2025-11-29,17:30,La Liga,,Sat,Away,W,2,0,Levante,2.80864,1.20253,,,,,,Match Report,,,,,,,,2026,Athletic Club
+264,2025-11-29,20:00,La Liga,,Sat,Home,W,2,0,Real Oviedo,2.40693,0.921985,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+265,2025-11-29,15:15,La Liga,,Sat,Home,W,3,1,Alaves,2.51096,2.09256,,,,,,Match Report,,,,,,,,2026,Barcelona
+266,2025-11-29,17:30,La Liga,,Sat,Home,L,0,2,Athletic Club,1.20253,2.80864,,,,,,Match Report,,,,,,,,2026,Levante
+267,2025-11-29,13:00,La Liga,,Sat,Home,D,2,2,Osasuna,1.10581,1.11108,,,,,,Match Report,,,,,,,,2026,Mallorca
+268,2025-11-29,13:00,La Liga,,Sat,Away,D,2,2,Mallorca,1.11108,1.10581,,,,,,Match Report,,,,,,,,2026,Osasuna
+269,2025-11-29,20:00,La Liga,,Sat,Away,L,0,2,Atletico Madrid,0.921985,2.40693,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+270,2025-11-30,17:30,La Liga,,Sun,Home,L,0,1,Espanyol,0.635572,0.599243,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+271,2025-11-30,17:30,La Liga,,Sun,Away,W,1,0,Celta Vigo,0.599243,0.635572,,,,,,Match Report,,,,,,,,2026,Espanyol
+272,2025-11-30,20:00,La Liga,,Sun,Home,D,1,1,Real Madrid,1.05171,2.21359,,,,,,Match Report,,,,,,,,2026,Girona
+273,2025-11-30,15:15,La Liga,,Sun,Away,W,2,0,Sevilla,1.17861,0.735196,,,,,,Match Report,,,,,,,,2026,Real Betis
+274,2025-11-30,20:00,La Liga,,Sun,Away,D,1,1,Girona,2.21359,1.05171,,,,,,Match Report,,,,,,,,2026,Real Madrid
+275,2025-11-30,13:00,La Liga,,Sun,Home,L,2,3,Villarreal,1.3715,1.63038,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+276,2025-11-30,15:15,La Liga,,Sun,Home,L,0,2,Real Betis,0.735196,1.17861,,,,,,Match Report,,,,,,,,2026,Sevilla
+277,2025-11-30,13:00,La Liga,,Sun,Away,W,3,2,Real Sociedad,1.63038,1.3715,,,,,,Match Report,,,,,,,,2026,Villarreal
+278,2025-12-01,20:00,La Liga,,Mon,Home,D,1,1,Valencia,2.13298,0.897663,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+279,2025-12-01,20:00,La Liga,,Mon,Away,D,1,1,Rayo Vallecano,0.897663,2.13298,,,,,,Match Report,,,,,,,,2026,Valencia
+280,2025-12-02,20:00,La Liga,,Tue,Away,L,1,3,Barcelona,1.35018,3.46121,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+281,2025-12-02,20:00,La Liga,,Tue,Home,W,3,1,Atletico Madrid,3.46121,1.35018,,,,,,Match Report,,,,,,,,2026,Barcelona
+282,2025-12-03,18:00,La Liga,,Wed,Home,L,0,3,Real Madrid,0.917315,2.36743,,,,,,Match Report,,,,,,,,2026,Athletic Club
+283,2025-12-03,18:00,La Liga,,Wed,Away,W,3,0,Athletic Club,2.36743,0.917315,,,,,,Match Report,,,,,,,,2026,Real Madrid
+284,2025-12-05,20:00,La Liga,,Fri,Away,D,0,0,Real Oviedo,0.617185,1.60009,,,,,,Match Report,,,,,,,,2026,Mallorca
+285,2025-12-05,20:00,La Liga,,Fri,Home,D,0,0,Mallorca,1.60009,0.617185,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+286,2025-12-06,15:15,La Liga,,Sat,Home,W,1,0,Real Sociedad,1.88765,1.09935,,,,,,Match Report,,,,,,,,2026,Alaves
+287,2025-12-06,20:00,La Liga,,Sat,Home,W,1,0,Atletico Madrid,1.18636,0.771885,,,,,,Match Report,,,,,,,,2026,Athletic Club
+288,2025-12-06,20:00,La Liga,,Sat,Away,L,0,1,Athletic Club,0.771885,1.18636,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+289,2025-12-06,17:30,La Liga,,Sat,Away,W,5,3,Real Betis,3.30288,2.74214,,,,,,Match Report,,,,,,,,2026,Barcelona
+290,2025-12-06,13:00,La Liga,,Sat,Away,L,0,2,Villarreal,0.282254,0.816941,,,,,,Match Report,,,,,,,,2026,Getafe
+291,2025-12-06,17:30,La Liga,,Sat,Home,L,3,5,Barcelona,2.74214,3.30288,,,,,,Match Report,,,,,,,,2026,Real Betis
+292,2025-12-06,15:15,La Liga,,Sat,Away,L,0,1,Alaves,1.09935,1.88765,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+293,2025-12-06,13:00,La Liga,,Sat,Home,W,2,0,Getafe,0.816941,0.282254,,,,,,Match Report,,,,,,,,2026,Villarreal
+294,2025-12-07,20:00,La Liga,,Sun,Away,W,2,0,Real Madrid,1.60908,2.41681,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+295,2025-12-07,13:00,La Liga,,Sun,Home,W,3,0,Girona,1.59513,0.781043,,,,,,Match Report,,,,,,,,2026,Elche
+296,2025-12-07,17:30,La Liga,,Sun,Home,W,1,0,Rayo Vallecano,1.57985,0.285545,,,,,,Match Report,,,,,,,,2026,Espanyol
+297,2025-12-07,13:00,La Liga,,Sun,Away,L,0,3,Elche,0.781043,1.59513,,,,,,Match Report,,,,,,,,2026,Girona
+298,2025-12-07,17:30,La Liga,,Sun,Away,L,0,1,Espanyol,0.285545,1.57985,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+299,2025-12-07,20:00,La Liga,,Sun,Home,L,0,2,Celta Vigo,2.41681,1.60908,,,,,,Match Report,,,,,,,,2026,Real Madrid
+300,2025-12-07,15:15,La Liga,,Sun,Away,D,1,1,Valencia,0.635478,1.23901,,,,,,Match Report,,,,,,,,2026,Sevilla
+301,2025-12-07,15:15,La Liga,,Sun,Home,D,1,1,Sevilla,1.23901,0.635478,,,,,,Match Report,,,,,,,,2026,Valencia
+302,2025-12-08,20:00,La Liga,,Mon,Away,L,0,2,Osasuna,0.544977,1.74988,,,,,,Match Report,,,,,,,,2026,Levante
+303,2025-12-08,20:00,La Liga,,Mon,Home,W,2,0,Levante,1.74988,0.544977,,,,,,Match Report,,,,,,,,2026,Osasuna
+304,2025-12-12,20:00,La Liga,,Fri,Away,W,2,1,Real Sociedad,1.16894,1.02349,,,,,,Match Report,,,,,,,,2026,Girona
+305,2025-12-12,20:00,La Liga,,Fri,Home,L,1,2,Girona,1.02349,1.16894,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+306,2025-12-13,13:00,La Liga,,Sat,Home,W,2,1,Valencia,2.07076,1.26068,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+307,2025-12-13,17:30,La Liga,,Sat,Home,W,2,0,Osasuna,2.14468,0.228217,,,,,,Match Report,,,,,,,,2026,Barcelona
+308,2025-12-13,15:15,La Liga,,Sat,Away,L,1,3,Mallorca,0.311674,2.581,,,,,,Match Report,,,,,,,,2026,Elche
+309,2025-12-13,20:00,La Liga,,Sat,Away,W,1,0,Getafe,0.75472,0.305925,,,,,,Match Report,,,,,,,,2026,Espanyol
+310,2025-12-13,20:00,La Liga,,Sat,Home,L,0,1,Espanyol,0.305925,0.75472,,,,,,Match Report,,,,,,,,2026,Getafe
+311,2025-12-13,15:15,La Liga,,Sat,Home,W,3,1,Elche,2.581,0.311674,,,,,,Match Report,,,,,,,,2026,Mallorca
+312,2025-12-13,17:30,La Liga,,Sat,Away,L,0,2,Barcelona,0.228217,2.14468,,,,,,Match Report,,,,,,,,2026,Osasuna
+313,2025-12-13,13:00,La Liga,,Sat,Away,L,1,2,Atletico Madrid,1.26068,2.07076,,,,,,Match Report,,,,,,,,2026,Valencia
+314,2025-12-14,20:00,La Liga,,Sun,Home,L,1,2,Real Madrid,1.313,1.90656,,,,,,Match Report,,,,,,,,2026,Alaves
+315,2025-12-14,15:15,La Liga,,Sun,Away,L,0,2,Celta Vigo,1.66561,1.97074,,,,,,Match Report,,,,,,,,2026,Athletic Club
+316,2025-12-14,15:15,La Liga,,Sun,Home,W,2,0,Athletic Club,1.97074,1.66561,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+317,2025-12-14,20:00,La Liga,,Sun,Away,W,2,1,Alaves,1.90656,1.313,,,,,,Match Report,,,,,,,,2026,Real Madrid
+318,2025-12-14,13:00,La Liga,,Sun,Away,L,0,4,Sevilla,0.416975,2.31899,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+319,2025-12-14,13:00,La Liga,,Sun,Home,W,4,0,Real Oviedo,2.31899,0.416975,,,,,,Match Report,,,,,,,,2026,Sevilla
+320,2025-12-15,20:00,La Liga,,Mon,Home,D,0,0,Real Betis,2.1848,0.788766,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+321,2025-12-15,20:00,La Liga,,Mon,Away,D,0,0,Rayo Vallecano,0.788766,2.1848,,,,,,Match Report,,,,,,,,2026,Real Betis
+322,2025-12-19,20:00,La Liga,,Fri,Away,D,1,1,Valencia,0.199412,2.16012,,,,,,Match Report,,,,,,,,2026,Mallorca
+323,2025-12-19,20:00,La Liga,,Fri,Home,D,1,1,Mallorca,2.16012,0.199412,,,,,,Match Report,,,,,,,,2026,Valencia
+324,2025-12-20,17:30,La Liga,,Sat,Away,L,0,3,Osasuna,0.718671,2.39145,,,,,,Match Report,,,,,,,,2026,Alaves
+325,2025-12-20,13:00,La Liga,,Sat,Away,D,0,0,Real Oviedo,0.600009,0.517531,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+326,2025-12-20,15:15,La Liga,,Sat,Home,D,1,1,Real Sociedad,1.22005,1.62986,,,,,,Match Report,,,,,,,,2026,Levante
+327,2025-12-20,17:30,La Liga,,Sat,Home,W,3,0,Alaves,2.39145,0.718671,,,,,,Match Report,,,,,,,,2026,Osasuna
+328,2025-12-20,20:00,La Liga,,Sat,Home,W,2,0,Sevilla,4.00139,1.51418,,,,,,Match Report,,,,,,,,2026,Real Madrid
+329,2025-12-20,13:00,La Liga,,Sat,Home,D,0,0,Celta Vigo,0.517531,0.600009,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+330,2025-12-20,15:15,La Liga,,Sat,Away,D,1,1,Levante,1.62986,1.22005,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+331,2025-12-20,20:00,La Liga,,Sat,Away,L,0,2,Real Madrid,1.51418,4.00139,,,,,,Match Report,,,,,,,,2026,Sevilla
+332,2025-12-21,13:00,La Liga,,Sun,Away,W,3,0,Girona,1.26201,1.11565,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+333,2025-12-21,15:15,La Liga,,Sun,Away,W,2,0,Villarreal,3.27381,2.16466,,,,,,Match Report,,,,,,,,2026,Barcelona
+334,2025-12-21,17:30,La Liga,,Sun,Home,W,4,0,Rayo Vallecano,3.66996,1.14923,,,,,,Match Report,,,,,,,,2026,Elche
+335,2025-12-21,20:00,La Liga,,Sun,Away,L,0,4,Real Betis,1.24726,3.46022,,,,,,Match Report,,,,,,,,2026,Getafe
+336,2025-12-21,13:00,La Liga,,Sun,Home,L,0,3,Atletico Madrid,1.11565,1.26201,,,,,,Match Report,,,,,,,,2026,Girona
+337,2025-12-21,17:30,La Liga,,Sun,Away,L,0,4,Elche,1.14923,3.66996,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+338,2025-12-21,20:00,La Liga,,Sun,Home,W,4,0,Getafe,3.46022,1.24726,,,,,,Match Report,,,,,,,,2026,Real Betis
+339,2025-12-21,15:15,La Liga,,Sun,Home,L,0,2,Barcelona,2.16466,3.27381,,,,,,Match Report,,,,,,,,2026,Villarreal
+340,2025-12-22,20:00,La Liga,,Mon,Home,L,1,2,Espanyol,1.72282,0.908988,,,,,,Match Report,,,,,,,,2026,Athletic Club
+341,2025-12-22,20:00,La Liga,,Mon,Away,W,2,1,Athletic Club,0.908988,1.72282,,,,,,Match Report,,,,,,,,2026,Espanyol
+342,2026-01-02,20:00,La Liga,,Fri,Away,D,1,1,Rayo Vallecano,0.663898,0.662324,,,,,,Match Report,,,,,,,,2026,Getafe
+343,2026-01-02,20:00,La Liga,,Fri,Home,D,1,1,Getafe,0.662324,0.663898,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+344,2026-01-03,15:15,La Liga,,Sat,Away,D,1,1,Osasuna,1.554,0.868051,,,,,,Match Report,,,,,,,,2026,Athletic Club
+345,2026-01-03,20:00,La Liga,,Sat,Away,W,2,0,Espanyol,2.94252,1.79661,,,,,,Match Report,,,,,,,,2026,Barcelona
+346,2026-01-03,13:00,La Liga,,Sat,Home,W,4,1,Valencia,2.59029,1.79296,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+347,2026-01-03,17:30,La Liga,,Sat,Home,L,1,3,Villarreal,1.52119,2.635,,,,,,Match Report,,,,,,,,2026,Elche
+348,2026-01-03,20:00,La Liga,,Sat,Home,L,0,2,Barcelona,1.79661,2.94252,,,,,,Match Report,,,,,,,,2026,Espanyol
+349,2026-01-03,15:15,La Liga,,Sat,Home,D,1,1,Athletic Club,0.868051,1.554,,,,,,Match Report,,,,,,,,2026,Osasuna
+350,2026-01-03,13:00,La Liga,,Sat,Away,L,1,4,Celta Vigo,1.79296,2.59029,,,,,,Match Report,,,,,,,,2026,Valencia
+351,2026-01-03,17:30,La Liga,,Sat,Away,W,3,1,Elche,2.635,1.52119,,,,,,Match Report,,,,,,,,2026,Villarreal
+352,2026-01-04,17:30,La Liga,,Sun,Home,D,1,1,Real Oviedo,1.56756,3.21906,,,,,,Match Report,,,,,,,,2026,Alaves
+353,2026-01-04,20:00,La Liga,,Sun,Away,D,1,1,Real Sociedad,1.37325,1.70649,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+354,2026-01-04,17:30,La Liga,,Sun,Away,W,2,1,Mallorca,1.45714,1.48338,,,,,,Match Report,,,,,,,,2026,Girona
+355,2026-01-04,13:00,La Liga,,Sun,Away,W,3,0,Sevilla,1.65102,1.66562,,,,,,Match Report,,,,,,,,2026,Levante
+356,2026-01-04,17:30,La Liga,,Sun,Home,L,1,2,Girona,1.48338,1.45714,,,,,,Match Report,,,,,,,,2026,Mallorca
+357,2026-01-04,15:15,La Liga,,Sun,Away,L,1,5,Real Madrid,0.974623,3.0073,,,,,,Match Report,,,,,,,,2026,Real Betis
+358,2026-01-04,15:15,La Liga,,Sun,Home,W,5,1,Real Betis,3.0073,0.974623,,,,,,Match Report,,,,,,,,2026,Real Madrid
+359,2026-01-04,17:30,La Liga,,Sun,Away,D,1,1,Alaves,3.21906,1.56756,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+360,2026-01-04,20:00,La Liga,,Sun,Home,D,1,1,Atletico Madrid,1.70649,1.37325,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+361,2026-01-04,13:00,La Liga,,Sun,Home,L,0,3,Levante,1.66562,1.65102,,,,,,Match Report,,,,,,,,2026,Sevilla
+362,2026-01-09,20:00,La Liga,,Fri,Home,L,1,2,Real Sociedad,0.240168,1.25801,,,,,,Match Report,,,,,,,,2026,Getafe
+363,2026-01-09,20:00,La Liga,,Fri,Away,W,2,1,Getafe,1.25801,0.240168,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+364,2026-01-10,15:15,La Liga,,Sat,Away,L,1,3,Villarreal,0.844572,1.38322,,,,,,Match Report,,,,,,,,2026,Alaves
+365,2026-01-10,20:00,La Liga,,Sat,Away,D,1,1,Valencia,0.244413,2.04147,,,,,,Match Report,,,,,,,,2026,Elche
+366,2026-01-10,17:30,La Liga,,Sat,Home,W,1,0,Osasuna,0.984024,1.22674,,,,,,Match Report,,,,,,,,2026,Girona
+367,2026-01-10,17:30,La Liga,,Sat,Away,L,0,1,Girona,1.22674,0.984024,,,,,,Match Report,,,,,,,,2026,Osasuna
+368,2026-01-10,13:00,La Liga,,Sat,Away,D,1,1,Real Oviedo,2.70809,1.01026,,,,,,Match Report,,,,,,,,2026,Real Betis
+369,2026-01-10,13:00,La Liga,,Sat,Home,D,1,1,Real Betis,1.01026,2.70809,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+370,2026-01-10,20:00,La Liga,,Sat,Home,D,1,1,Elche,2.04147,0.244413,,,,,,Match Report,,,,,,,,2026,Valencia
+371,2026-01-10,15:15,La Liga,,Sat,Home,W,3,1,Alaves,1.38322,0.844572,,,,,,Match Report,,,,,,,,2026,Villarreal
+372,2026-01-11,15:15,La Liga,,Sun,Away,D,1,1,Levante,1.58922,1.18232,,,,,,Match Report,,,,,,,,2026,Espanyol
+373,2026-01-11,15:15,La Liga,,Sun,Home,D,1,1,Espanyol,1.18232,1.58922,,,,,,Match Report,,,,,,,,2026,Levante
+374,2026-01-11,13:00,La Liga,,Sun,Away,L,1,2,Rayo Vallecano,1.05743,2.05105,,,,,,Match Report,,,,,,,,2026,Mallorca
+375,2026-01-11,13:00,La Liga,,Sun,Home,W,2,1,Mallorca,2.05105,1.05743,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+376,2026-01-12,20:00,La Liga,,Mon,Away,W,1,0,Sevilla,2.07629,0.262521,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+377,2026-01-12,20:00,La Liga,,Mon,Home,L,0,1,Celta Vigo,0.262521,2.07629,,,,,,Match Report,,,,,,,,2026,Sevilla
+378,2026-01-16,20:00,La Liga,,Fri,Home,L,0,2,Girona,1.26738,1.82377,,,,,,Match Report,,,,,,,,2026,Espanyol
+379,2026-01-16,20:00,La Liga,,Fri,Away,W,2,0,Espanyol,1.82377,1.26738,,,,,,Match Report,,,,,,,,2026,Girona
+380,2026-01-17,15:15,La Liga,,Sat,Away,L,2,3,Mallorca,2.28242,3.11432,,,,,,Match Report,,,,,,,,2026,Athletic Club
+381,2026-01-17,13:00,La Liga,,Sat,Away,L,0,2,Real Madrid,0.787501,2.54865,,,,,,Match Report,,,,,,,,2026,Levante
+382,2026-01-17,15:15,La Liga,,Sat,Home,W,3,2,Athletic Club,3.11432,2.28242,,,,,,Match Report,,,,,,,,2026,Mallorca
+383,2026-01-17,17:30,La Liga,,Sat,Home,W,3,2,Real Oviedo,2.03551,1.36173,,,,,,Match Report,,,,,,,,2026,Osasuna
+384,2026-01-17,20:00,La Liga,,Sat,Home,W,2,0,Villarreal,1.34951,1.17907,,,,,,Match Report,,,,,,,,2026,Real Betis
+385,2026-01-17,13:00,La Liga,,Sat,Home,W,2,0,Levante,2.54865,0.787501,,,,,,Match Report,,,,,,,,2026,Real Madrid
+386,2026-01-17,17:30,La Liga,,Sat,Away,L,2,3,Osasuna,1.36173,2.03551,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+387,2026-01-17,20:00,La Liga,,Sat,Away,L,0,2,Real Betis,1.17907,1.34951,,,,,,Match Report,,,,,,,,2026,Villarreal
+388,2026-01-18,15:15,La Liga,,Sun,Away,L,0,1,Atletico Madrid,1.21004,1.7743,,,,,,Match Report,,,,,,,,2026,Alaves
+389,2026-01-18,15:15,La Liga,,Sun,Home,W,1,0,Alaves,1.7743,1.21004,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+390,2026-01-18,20:00,La Liga,,Sun,Away,L,1,2,Real Sociedad,3.92031,1.55875,,,,,,Match Report,,,,,,,,2026,Barcelona
+391,2026-01-18,17:30,La Liga,,Sun,Home,W,3,0,Rayo Vallecano,1.90274,1.31932,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+392,2026-01-18,13:00,La Liga,,Sun,Home,L,0,1,Valencia,0.584591,0.746856,,,,,,Match Report,,,,,,,,2026,Getafe
+393,2026-01-18,17:30,La Liga,,Sun,Away,L,0,3,Celta Vigo,1.31932,1.90274,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+394,2026-01-18,20:00,La Liga,,Sun,Home,W,2,1,Barcelona,1.55875,3.92031,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+395,2026-01-18,13:00,La Liga,,Sun,Away,W,1,0,Getafe,0.746856,0.584591,,,,,,Match Report,,,,,,,,2026,Valencia
+396,2026-01-19,20:00,La Liga,,Mon,Home,D,2,2,Sevilla,1.48075,2.4961,,,,,,Match Report,,,,,,,,2026,Elche
+397,2026-01-19,20:00,La Liga,,Mon,Away,D,2,2,Elche,2.4961,1.48075,,,,,,Match Report,,,,,,,,2026,Sevilla
+398,2026-01-23,20:00,La Liga,,Fri,Away,L,2,3,Levante,0.632971,3.24455,,,,,,Match Report,,,,,,,,2026,Elche
+399,2026-01-23,20:00,La Liga,,Fri,Home,W,3,2,Elche,3.24455,0.632971,,,,,,Match Report,,,,,,,,2026,Levante
+400,2026-01-24,17:30,La Liga,,Sat,Away,L,1,2,Sevilla,1.91259,1.43055,,,,,,Match Report,,,,,,,,2026,Athletic Club
+401,2026-01-24,15:15,La Liga,,Sat,Away,L,2,3,Valencia,1.75941,2.76956,,,,,,Match Report,,,,,,,,2026,Espanyol
+402,2026-01-24,13:00,La Liga,,Sat,Away,W,3,1,Rayo Vallecano,1.36861,0.669564,,,,,,Match Report,,,,,,,,2026,Osasuna
+403,2026-01-24,13:00,La Liga,,Sat,Home,L,1,3,Osasuna,0.669564,1.36861,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+404,2026-01-24,20:00,La Liga,,Sat,Away,W,2,0,Villarreal,1.62206,0.952831,,,,,,Match Report,,,,,,,,2026,Real Madrid
+405,2026-01-24,17:30,La Liga,,Sat,Home,W,2,1,Athletic Club,1.43055,1.91259,,,,,,Match Report,,,,,,,,2026,Sevilla
+406,2026-01-24,15:15,La Liga,,Sat,Home,W,3,2,Espanyol,2.76956,1.75941,,,,,,Match Report,,,,,,,,2026,Valencia
+407,2026-01-24,20:00,La Liga,,Sat,Home,L,0,2,Real Madrid,0.952831,1.62206,,,,,,Match Report,,,,,,,,2026,Villarreal
+408,2026-01-25,20:00,La Liga,,Sun,Home,W,2,1,Real Betis,1.67102,1.78662,,,,,,Match Report,,,,,,,,2026,Alaves
+409,2026-01-25,13:00,La Liga,,Sun,Home,W,3,0,Mallorca,1.42501,0.367893,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+410,2026-01-25,15:15,La Liga,,Sun,Home,W,3,0,Real Oviedo,2.59917,0.486404,,,,,,Match Report,,,,,,,,2026,Barcelona
+411,2026-01-25,17:30,La Liga,,Sun,Away,L,1,3,Real Sociedad,1.63115,2.15496,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+412,2026-01-25,13:00,La Liga,,Sun,Away,L,0,3,Atletico Madrid,0.367893,1.42501,,,,,,Match Report,,,,,,,,2026,Mallorca
+413,2026-01-25,20:00,La Liga,,Sun,Away,L,1,2,Alaves,1.78662,1.67102,,,,,,Match Report,,,,,,,,2026,Real Betis
+414,2026-01-25,15:15,La Liga,,Sun,Away,L,0,3,Barcelona,0.486404,2.59917,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+415,2026-01-25,17:30,La Liga,,Sun,Home,W,3,1,Celta Vigo,2.15496,1.63115,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+416,2026-01-26,20:00,La Liga,,Mon,Away,D,1,1,Girona,1.1089,1.01571,,,,,,Match Report,,,,,,,,2026,Getafe
+417,2026-01-26,20:00,La Liga,,Mon,Home,D,1,1,Getafe,1.01571,1.1089,,,,,,Match Report,,,,,,,,2026,Girona
+418,2026-01-30,20:00,La Liga,,Fri,Away,W,2,1,Espanyol,1.32248,1.20096,,,,,,Match Report,,,,,,,,2026,Alaves
+419,2026-01-30,20:00,La Liga,,Fri,Home,L,1,2,Alaves,1.20096,1.32248,,,,,,Match Report,,,,,,,,2026,Espanyol
+420,2026-01-31,17:30,La Liga,,Sat,Away,D,0,0,Levante,0.615283,0.41109,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+421,2026-01-31,20:00,La Liga,,Sat,Away,W,3,1,Elche,7.11049,0.839,,,,,,Match Report,,,,,,,,2026,Barcelona
+422,2026-01-31,20:00,La Liga,,Sat,Home,L,1,3,Barcelona,0.839,7.11049,,,,,,Match Report,,,,,,,,2026,Elche
+423,2026-01-31,13:00,La Liga,,Sat,Away,L,0,1,Real Oviedo,0.664225,1.26601,,,,,,Match Report,,,,,,,,2026,Girona
+424,2026-01-31,17:30,La Liga,,Sat,Home,D,0,0,Atletico Madrid,0.41109,0.615283,,,,,,Match Report,,,,,,,,2026,Levante
+425,2026-01-31,15:15,La Liga,,Sat,Home,D,2,2,Villarreal,2.13467,0.911128,,,,,,Match Report,,,,,,,,2026,Osasuna
+426,2026-01-31,13:00,La Liga,,Sat,Home,W,1,0,Girona,1.26601,0.664225,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+427,2026-01-31,15:15,La Liga,,Sat,Away,D,2,2,Osasuna,0.911128,2.13467,,,,,,Match Report,,,,,,,,2026,Villarreal
+428,2026-02-01,20:00,La Liga,,Sun,Home,D,1,1,Real Sociedad,0.893754,1.58578,,,,,,Match Report,,,,,,,,2026,Athletic Club
+429,2026-02-01,17:30,La Liga,,Sun,Away,D,0,0,Getafe,0.256881,0.499866,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+430,2026-02-01,17:30,La Liga,,Sun,Home,D,0,0,Celta Vigo,0.499866,0.256881,,,,,,Match Report,,,,,,,,2026,Getafe
+431,2026-02-01,13:00,La Liga,,Sun,Away,L,1,2,Real Madrid,1.06935,2.30208,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+432,2026-02-01,15:15,La Liga,,Sun,Home,W,2,1,Valencia,2.16883,1.88674,,,,,,Match Report,,,,,,,,2026,Real Betis
+433,2026-02-01,13:00,La Liga,,Sun,Home,W,2,1,Rayo Vallecano,2.30208,1.06935,,,,,,Match Report,,,,,,,,2026,Real Madrid
+434,2026-02-01,20:00,La Liga,,Sun,Away,D,1,1,Athletic Club,1.58578,0.893754,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+435,2026-02-01,15:15,La Liga,,Sun,Away,L,1,2,Real Betis,1.88674,2.16883,,,,,,Match Report,,,,,,,,2026,Valencia
+436,2026-02-02,20:00,La Liga,,Mon,Home,W,4,1,Sevilla,3.04346,1.24318,,,,,,Match Report,,,,,,,,2026,Mallorca
+437,2026-02-02,20:00,La Liga,,Mon,Away,L,1,4,Mallorca,1.24318,3.04346,,,,,,Match Report,,,,,,,,2026,Sevilla
+438,2026-02-06,20:00,La Liga,,Fri,Home,L,1,2,Osasuna,2.0351,1.00253,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+439,2026-02-06,20:00,La Liga,,Fri,Away,W,2,1,Celta Vigo,1.00253,2.0351,,,,,,Match Report,,,,,,,,2026,Osasuna
+440,2026-02-07,15:15,La Liga,,Sat,Home,W,3,0,Mallorca,2.48168,1.01087,,,,,,Match Report,,,,,,,,2026,Barcelona
+441,2026-02-07,20:00,La Liga,,Sat,Away,L,1,3,Real Sociedad,1.08664,1.7719,,,,,,Match Report,,,,,,,,2026,Elche
+442,2026-02-07,15:15,La Liga,,Sat,Away,L,0,3,Barcelona,1.01087,2.48168,,,,,,Match Report,,,,,,,,2026,Mallorca
+443,2026-02-07,20:00,La Liga,,Sat,Home,W,3,1,Elche,1.7719,1.08664,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+444,2026-02-08,13:00,La Liga,,Sun,Home,L,0,2,Getafe,3.01162,1.7859,,,,,,Match Report,,,,,,,,2026,Alaves
+445,2026-02-08,15:15,La Liga,,Sun,Home,W,4,2,Levante,2.77377,0.615311,,,,,,Match Report,,,,,,,,2026,Athletic Club
+446,2026-02-08,17:30,La Liga,,Sun,Home,L,0,1,Real Betis,0.625525,0.839838,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+447,2026-02-08,13:00,La Liga,,Sun,Away,W,2,0,Alaves,1.7859,3.01162,,,,,,Match Report,,,,,,,,2026,Getafe
+448,2026-02-08,15:15,La Liga,,Sun,Away,D,1,1,Sevilla,2.60199,0.958247,,,,,,Match Report,,,,,,,,2026,Girona
+449,2026-02-08,15:15,La Liga,,Sun,Away,L,2,4,Athletic Club,0.615311,2.77377,,,,,,Match Report,,,,,,,,2026,Levante
+450,2026-02-08,17:30,La Liga,,Sun,Away,W,1,0,Atletico Madrid,0.839838,0.625525,,,,,,Match Report,,,,,,,,2026,Real Betis
+451,2026-02-08,20:00,La Liga,,Sun,Away,W,2,0,Valencia,1.04576,0.571838,,,,,,Match Report,,,,,,,,2026,Real Madrid
+452,2026-02-08,15:15,La Liga,,Sun,Home,D,1,1,Girona,0.958247,2.60199,,,,,,Match Report,,,,,,,,2026,Sevilla
+453,2026-02-08,20:00,La Liga,,Sun,Home,L,0,2,Real Madrid,0.571838,1.04576,,,,,,Match Report,,,,,,,,2026,Valencia
+454,2026-02-09,20:00,La Liga,,Mon,Away,L,1,4,Villarreal,0.744747,1.53925,,,,,,Match Report,,,,,,,,2026,Espanyol
+455,2026-02-09,20:00,La Liga,,Mon,Home,W,4,1,Espanyol,1.53925,0.744747,,,,,,Match Report,,,,,,,,2026,Villarreal
+456,2026-02-13,20:00,La Liga,,Fri,Home,D,0,0,Osasuna,2.33332,0.81264,,,,,,Match Report,,,,,,,,2026,Elche
+457,2026-02-13,20:00,La Liga,,Fri,Away,D,0,0,Elche,0.81264,2.33332,,,,,,Match Report,,,,,,,,2026,Osasuna
+458,2026-02-14,17:30,La Liga,,Sat,Away,D,1,1,Sevilla,1.38983,0.354256,,,,,,Match Report,,,,,,,,2026,Alaves
+459,2026-02-14,13:00,La Liga,,Sat,Away,D,2,2,Espanyol,2.81494,1.16112,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+460,2026-02-14,13:00,La Liga,,Sat,Home,D,2,2,Celta Vigo,1.16112,2.81494,,,,,,Match Report,,,,,,,,2026,Espanyol
+461,2026-02-14,15:15,La Liga,,Sat,Home,W,2,1,Villarreal,1.61761,0.969388,,,,,,Match Report,,,,,,,,2026,Getafe
+462,2026-02-14,20:00,La Liga,,Sat,Home,W,4,1,Real Sociedad,3.05918,1.66018,,,,,,Match Report,,,,,,,,2026,Real Madrid
+463,2026-02-14,20:00,La Liga,,Sat,Away,L,1,4,Real Madrid,1.66018,3.05918,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+464,2026-02-14,17:30,La Liga,,Sat,Home,D,1,1,Alaves,0.354256,1.38983,,,,,,Match Report,,,,,,,,2026,Sevilla
+465,2026-02-14,15:15,La Liga,,Sat,Away,L,1,2,Getafe,0.969388,1.61761,,,,,,Match Report,,,,,,,,2026,Villarreal
+466,2026-02-15,13:00,La Liga,,Sun,Away,W,2,1,Real Oviedo,1.20566,0.861013,,,,,,Match Report,,,,,,,,2026,Athletic Club
+467,2026-02-15,15:15,La Liga,,Sun,Away,L,0,3,Rayo Vallecano,0.752854,2.75329,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+468,2026-02-15,17:30,La Liga,,Sun,Home,L,0,2,Valencia,1.45737,0.743814,,,,,,Match Report,,,,,,,,2026,Levante
+469,2026-02-15,20:00,La Liga,,Sun,Home,L,1,2,Real Betis,0.731317,2.04841,,,,,,Match Report,,,,,,,,2026,Mallorca
+470,2026-02-15,15:15,La Liga,,Sun,Home,W,3,0,Atletico Madrid,2.75329,0.752854,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+471,2026-02-15,20:00,La Liga,,Sun,Away,W,2,1,Mallorca,2.04841,0.731317,,,,,,Match Report,,,,,,,,2026,Real Betis
+472,2026-02-15,13:00,La Liga,,Sun,Home,L,1,2,Athletic Club,0.861013,1.20566,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+473,2026-02-15,17:30,La Liga,,Sun,Away,W,2,0,Levante,0.743814,1.45737,,,,,,Match Report,,,,,,,,2026,Valencia
+474,2026-02-16,20:00,La Liga,,Mon,Away,L,1,2,Girona,2.69655,2.8897,,,,,,Match Report,,,,,,,,2026,Barcelona
+475,2026-02-16,20:00,La Liga,,Mon,Home,W,2,1,Barcelona,2.8897,2.69655,,,,,,Match Report,,,,,,,,2026,Girona
+476,2026-02-18,19:00,La Liga,,Wed,Home,L,0,1,Villarreal,0.774339,2.40024,,,,,,Match Report,,,,,,,,2026,Levante
+477,2026-02-18,19:00,La Liga,,Wed,Away,W,1,0,Levante,2.40024,0.774339,,,,,,Match Report,,,,,,,,2026,Villarreal
+478,2026-02-20,20:00,La Liga,,Fri,Home,W,2,1,Elche,3.38352,0.783583,,,,,,Match Report,,,,,,,,2026,Athletic Club
+479,2026-02-20,20:00,La Liga,,Fri,Away,L,1,2,Athletic Club,0.783583,3.38352,,,,,,Match Report,,,,,,,,2026,Elche
+480,2026-02-21,20:00,La Liga,,Sat,Home,W,4,2,Espanyol,3.28587,1.04114,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+481,2026-02-21,20:00,La Liga,,Sat,Away,L,2,4,Atletico Madrid,1.04114,3.28587,,,,,,Match Report,,,,,,,,2026,Espanyol
+482,2026-02-21,17:30,La Liga,,Sat,Home,W,2,1,Real Madrid,2.31248,2.02307,,,,,,Match Report,,,,,,,,2026,Osasuna
+483,2026-02-21,15:15,La Liga,,Sat,Away,D,1,1,Real Betis,1.30345,2.13548,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+484,2026-02-21,15:15,La Liga,,Sat,Home,D,1,1,Rayo Vallecano,2.13548,1.30345,,,,,,Match Report,,,,,,,,2026,Real Betis
+485,2026-02-21,17:30,La Liga,,Sat,Away,L,1,2,Osasuna,2.02307,2.31248,,,,,,Match Report,,,,,,,,2026,Real Madrid
+486,2026-02-21,13:00,La Liga,,Sat,Away,D,3,3,Real Sociedad,1.75088,2.77486,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+487,2026-02-21,13:00,La Liga,,Sat,Home,D,3,3,Real Oviedo,2.77486,1.75088,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+488,2026-02-22,15:15,La Liga,,Sun,Home,W,3,0,Levante,4.24402,0.602552,,,,,,Match Report,,,,,,,,2026,Barcelona
+489,2026-02-22,17:30,La Liga,,Sun,Home,W,2,0,Mallorca,2.93904,0.0207331,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+490,2026-02-22,13:00,La Liga,,Sun,Home,L,0,1,Sevilla,0.250539,0.283172,,,,,,Match Report,,,,,,,,2026,Getafe
+491,2026-02-22,15:15,La Liga,,Sun,Away,L,0,3,Barcelona,0.602552,4.24402,,,,,,Match Report,,,,,,,,2026,Levante
+492,2026-02-22,17:30,La Liga,,Sun,Away,L,0,2,Celta Vigo,0.0207331,2.93904,,,,,,Match Report,,,,,,,,2026,Mallorca
+493,2026-02-22,13:00,La Liga,,Sun,Away,W,1,0,Getafe,0.283172,0.250539,,,,,,Match Report,,,,,,,,2026,Sevilla
+494,2026-02-22,20:00,La Liga,,Sun,Away,L,1,2,Villarreal,1.91256,2.38144,,,,,,Match Report,,,,,,,,2026,Valencia
+495,2026-02-22,20:00,La Liga,,Sun,Home,W,2,1,Valencia,2.38144,1.91256,,,,,,Match Report,,,,,,,,2026,Villarreal
+496,2026-02-23,20:00,La Liga,,Mon,Home,D,2,2,Girona,2.1366,2.05717,,,,,,Match Report,,,,,,,,2026,Alaves
+497,2026-02-23,20:00,La Liga,,Mon,Away,D,2,2,Alaves,2.05717,2.1366,,,,,,Match Report,,,,,,,,2026,Girona
+498,2026-02-27,20:00,La Liga,,Fri,Away,L,0,2,Levante,1.29855,2.77253,,,,,,Match Report,,,,,,,,2026,Alaves
+499,2026-02-27,20:00,La Liga,,Fri,Home,W,2,0,Alaves,2.77253,1.29855,,,,,,Match Report,,,,,,,,2026,Levante
+500,2026-02-28,13:00,La Liga,,Sat,Away,D,1,1,Rayo Vallecano,0.428457,1.35951,,,,,,Match Report,,,,,,,,2026,Athletic Club
+501,2026-02-28,20:00,La Liga,,Sat,Away,W,1,0,Real Oviedo,0.853142,1.50089,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+502,2026-02-28,15:15,La Liga,,Sat,Home,W,4,1,Villarreal,3.54743,1.36182,,,,,,Match Report,,,,,,,,2026,Barcelona
+503,2026-02-28,17:30,La Liga,,Sat,Home,L,0,1,Real Sociedad,0.754182,0.929702,,,,,,Match Report,,,,,,,,2026,Mallorca
+504,2026-02-28,13:00,La Liga,,Sat,Home,D,1,1,Athletic Club,1.35951,0.428457,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+505,2026-02-28,20:00,La Liga,,Sat,Home,L,0,1,Atletico Madrid,1.50089,0.853142,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+506,2026-02-28,17:30,La Liga,,Sat,Away,W,1,0,Mallorca,0.929702,0.754182,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+507,2026-02-28,15:15,La Liga,,Sat,Away,L,1,4,Barcelona,1.36182,3.54743,,,,,,Match Report,,,,,,,,2026,Villarreal
+508,2026-03-01,20:00,La Liga,,Sun,Away,W,2,1,Girona,0.697106,1.57036,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+509,2026-03-01,13:00,La Liga,,Sun,Home,D,2,2,Espanyol,1.82376,0.834858,,,,,,Match Report,,,,,,,,2026,Elche
+510,2026-03-01,13:00,La Liga,,Sun,Away,D,2,2,Elche,0.834858,1.82376,,,,,,Match Report,,,,,,,,2026,Espanyol
+511,2026-03-01,20:00,La Liga,,Sun,Home,L,1,2,Celta Vigo,1.57036,0.697106,,,,,,Match Report,,,,,,,,2026,Girona
+512,2026-03-01,15:15,La Liga,,Sun,Away,L,0,1,Valencia,0.259132,1.31076,,,,,,Match Report,,,,,,,,2026,Osasuna
+513,2026-03-01,17:30,La Liga,,Sun,Home,D,2,2,Sevilla,1.48441,0.656164,,,,,,Match Report,,,,,,,,2026,Real Betis
+514,2026-03-01,17:30,La Liga,,Sun,Away,D,2,2,Real Betis,0.656164,1.48441,,,,,,Match Report,,,,,,,,2026,Sevilla
+515,2026-03-01,15:15,La Liga,,Sun,Home,W,1,0,Osasuna,1.31076,0.259132,,,,,,Match Report,,,,,,,,2026,Valencia
+516,2026-03-02,20:00,La Liga,,Mon,Away,W,1,0,Real Madrid,0.476324,2.02274,,,,,,Match Report,,,,,,,,2026,Getafe
+517,2026-03-02,20:00,La Liga,,Mon,Home,L,0,1,Getafe,2.02274,0.476324,,,,,,Match Report,,,,,,,,2026,Real Madrid
+518,2026-03-04,18:00,La Liga,,Wed,Home,W,3,0,Real Oviedo,2.55086,1.01052,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+519,2026-03-04,18:00,La Liga,,Wed,Away,L,0,3,Rayo Vallecano,1.01052,2.55086,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+520,2026-03-06,20:00,La Liga,,Fri,Home,L,1,2,Real Madrid,0.910298,0.637644,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+521,2026-03-06,20:00,La Liga,,Fri,Away,W,2,1,Celta Vigo,0.637644,0.910298,,,,,,Match Report,,,,,,,,2026,Real Madrid
+522,2026-03-07,20:00,La Liga,,Sat,Home,L,0,1,Barcelona,1.04698,0.560009,,,,,,Match Report,,,,,,,,2026,Athletic Club
+523,2026-03-07,17:30,La Liga,,Sat,Home,W,3,2,Real Sociedad,3.57972,0.313932,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+524,2026-03-07,20:00,La Liga,,Sat,Away,W,1,0,Athletic Club,0.560009,1.04698,,,,,,Match Report,,,,,,,,2026,Barcelona
+525,2026-03-07,15:15,La Liga,,Sat,Away,D,1,1,Levante,1.917,0.819009,,,,,,Match Report,,,,,,,,2026,Girona
+526,2026-03-07,15:15,La Liga,,Sat,Home,D,1,1,Girona,0.819009,1.917,,,,,,Match Report,,,,,,,,2026,Levante
+527,2026-03-07,13:00,La Liga,,Sat,Away,D,2,2,Osasuna,1.03165,3.09031,,,,,,Match Report,,,,,,,,2026,Mallorca
+528,2026-03-07,13:00,La Liga,,Sat,Home,D,2,2,Mallorca,3.09031,1.03165,,,,,,Match Report,,,,,,,,2026,Osasuna
+529,2026-03-07,17:30,La Liga,,Sat,Away,L,2,3,Atletico Madrid,0.313932,3.57972,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+530,2026-03-08,20:00,La Liga,,Sun,Away,L,2,3,Valencia,1.60795,2.51657,,,,,,Match Report,,,,,,,,2026,Alaves
+531,2026-03-08,13:00,La Liga,,Sun,Away,L,1,2,Villarreal,1.62051,2.30632,,,,,,Match Report,,,,,,,,2026,Elche
+532,2026-03-08,15:15,La Liga,,Sun,Home,W,2,0,Real Betis,0.821088,1.24912,,,,,,Match Report,,,,,,,,2026,Getafe
+533,2026-03-08,17:30,La Liga,,Sun,Away,D,1,1,Sevilla,0.211673,1.14573,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+534,2026-03-08,15:15,La Liga,,Sun,Away,L,0,2,Getafe,1.24912,0.821088,,,,,,Match Report,,,,,,,,2026,Real Betis
+535,2026-03-08,17:30,La Liga,,Sun,Home,D,1,1,Rayo Vallecano,1.14573,0.211673,,,,,,Match Report,,,,,,,,2026,Sevilla
+536,2026-03-08,20:00,La Liga,,Sun,Home,W,3,2,Alaves,2.51657,1.60795,,,,,,Match Report,,,,,,,,2026,Valencia
+537,2026-03-08,13:00,La Liga,,Sun,Home,W,2,1,Elche,2.30632,1.62051,,,,,,Match Report,,,,,,,,2026,Villarreal
+538,2026-03-09,20:00,La Liga,,Mon,Home,D,1,1,Real Oviedo,1.55092,0.886689,,,,,,Match Report,,,,,,,,2026,Espanyol
+539,2026-03-09,20:00,La Liga,,Mon,Away,D,1,1,Espanyol,0.886689,1.55092,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+540,2026-03-13,20:00,La Liga,,Fri,Home,D,1,1,Villarreal,0.287232,0.873846,,,,,,Match Report,,,,,,,,2026,Alaves
+541,2026-03-13,20:00,La Liga,,Fri,Away,D,1,1,Alaves,0.873846,0.287232,,,,,,Match Report,,,,,,,,2026,Villarreal
+542,2026-03-14,13:00,La Liga,,Sat,Away,L,0,3,Girona,1.97271,2.19442,,,,,,Match Report,,,,,,,,2026,Athletic Club
+543,2026-03-14,15:15,La Liga,,Sat,Home,W,1,0,Getafe,2.14469,1.58248,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+544,2026-03-14,20:00,La Liga,,Sat,Away,L,1,4,Real Madrid,1.3711,1.72531,,,,,,Match Report,,,,,,,,2026,Elche
+545,2026-03-14,15:15,La Liga,,Sat,Away,L,0,1,Atletico Madrid,1.58248,2.14469,,,,,,Match Report,,,,,,,,2026,Getafe
+546,2026-03-14,13:00,La Liga,,Sat,Home,W,3,0,Athletic Club,2.19442,1.97271,,,,,,Match Report,,,,,,,,2026,Girona
+547,2026-03-14,20:00,La Liga,,Sat,Home,W,4,1,Elche,1.72531,1.3711,,,,,,Match Report,,,,,,,,2026,Real Madrid
+548,2026-03-14,17:30,La Liga,,Sat,Home,W,1,0,Valencia,1.8648,0.486871,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+549,2026-03-14,17:30,La Liga,,Sat,Away,L,0,1,Real Oviedo,0.486871,1.8648,,,,,,Match Report,,,,,,,,2026,Valencia
+550,2026-03-15,15:15,La Liga,,Sun,Home,W,5,2,Sevilla,3.8639,1.04304,,,,,,Match Report,,,,,,,,2026,Barcelona
+551,2026-03-15,17:30,La Liga,,Sun,Away,D,1,1,Real Betis,0.646702,1.87752,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+552,2026-03-15,13:00,La Liga,,Sun,Away,L,1,2,Mallorca,1.35243,2.1497,,,,,,Match Report,,,,,,,,2026,Espanyol
+553,2026-03-15,13:00,La Liga,,Sun,Home,W,2,1,Espanyol,2.1497,1.35243,,,,,,Match Report,,,,,,,,2026,Mallorca
+554,2026-03-15,20:00,La Liga,,Sun,Away,L,1,3,Real Sociedad,0.615126,2.91429,,,,,,Match Report,,,,,,,,2026,Osasuna
+555,2026-03-15,17:30,La Liga,,Sun,Home,D,1,1,Celta Vigo,1.87752,0.646702,,,,,,Match Report,,,,,,,,2026,Real Betis
+556,2026-03-15,20:00,La Liga,,Sun,Home,W,3,1,Osasuna,2.91429,0.615126,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+557,2026-03-15,15:15,La Liga,,Sun,Away,L,2,5,Barcelona,1.04304,3.8639,,,,,,Match Report,,,,,,,,2026,Sevilla
+558,2026-03-16,20:00,La Liga,,Mon,Away,D,1,1,Rayo Vallecano,1.45599,1.68134,,,,,,Match Report,,,,,,,,2026,Levante
+559,2026-03-16,20:00,La Liga,,Mon,Home,D,1,1,Levante,1.68134,1.45599,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+560,2026-03-20,20:00,La Liga,,Fri,Away,L,1,3,Villarreal,0.894953,3.35586,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+561,2026-03-20,20:00,La Liga,,Fri,Home,W,3,1,Real Sociedad,3.35586,0.894953,,,,,,Match Report,,,,,,,,2026,Villarreal
+562,2026-03-21,13:00,La Liga,,Sat,Home,W,2,1,Mallorca,1.51605,1.51939,,,,,,Match Report,,,,,,,,2026,Elche
+563,2026-03-21,15:15,La Liga,,Sat,Home,L,1,2,Getafe,1.51208,2.06384,,,,,,Match Report,,,,,,,,2026,Espanyol
+564,2026-03-21,15:15,La Liga,,Sat,Away,W,2,1,Espanyol,2.06384,1.51208,,,,,,Match Report,,,,,,,,2026,Getafe
+565,2026-03-21,17:30,La Liga,,Sat,Away,L,0,1,Osasuna,0.232115,2.26232,,,,,,Match Report,,,,,,,,2026,Girona
+566,2026-03-21,17:30,La Liga,,Sat,Home,W,4,2,Real Oviedo,2.92669,1.33569,,,,,,Match Report,,,,,,,,2026,Levante
+567,2026-03-21,13:00,La Liga,,Sat,Away,L,1,2,Elche,1.51939,1.51605,,,,,,Match Report,,,,,,,,2026,Mallorca
+568,2026-03-21,17:30,La Liga,,Sat,Home,W,1,0,Girona,2.26232,0.232115,,,,,,Match Report,,,,,,,,2026,Osasuna
+569,2026-03-21,17:30,La Liga,,Sat,Away,L,2,4,Levante,1.33569,2.92669,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+570,2026-03-21,20:00,La Liga,,Sat,Home,L,0,2,Valencia,0.505411,1.7133,,,,,,Match Report,,,,,,,,2026,Sevilla
+571,2026-03-21,20:00,La Liga,,Sat,Away,W,2,0,Sevilla,1.7133,0.505411,,,,,,Match Report,,,,,,,,2026,Valencia
+572,2026-03-22,15:15,La Liga,,Sun,Away,W,4,3,Celta Vigo,1.67221,1.70969,,,,,,Match Report,,,,,,,,2026,Alaves
+573,2026-03-22,17:30,La Liga,,Sun,Home,W,2,1,Real Betis,1.92715,0.591202,,,,,,Match Report,,,,,,,,2026,Athletic Club
+574,2026-03-22,20:00,La Liga,,Sun,Away,L,2,3,Real Madrid,1.40234,2.96605,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+575,2026-03-22,13:00,La Liga,,Sun,Home,W,1,0,Rayo Vallecano,1.92205,2.19631,,,,,,Match Report,,,,,,,,2026,Barcelona
+576,2026-03-22,15:15,La Liga,,Sun,Home,L,3,4,Alaves,1.70969,1.67221,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+577,2026-03-22,13:00,La Liga,,Sun,Away,L,0,1,Barcelona,2.19631,1.92205,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+578,2026-03-22,17:30,La Liga,,Sun,Away,L,1,2,Athletic Club,0.591202,1.92715,,,,,,Match Report,,,,,,,,2026,Real Betis
+579,2026-03-22,20:00,La Liga,,Sun,Home,W,3,2,Atletico Madrid,2.96605,1.40234,,,,,,Match Report,,,,,,,,2026,Real Madrid
+580,2026-04-03,19:00,La Liga,,Fri,Away,L,0,1,Rayo Vallecano,0.601974,1.51493,,,,,,Match Report,,,,,,,,2026,Elche
+581,2026-04-03,19:00,La Liga,,Fri,Home,W,1,0,Elche,1.51493,0.601974,,,,,,Match Report,,,,,,,,2026,Rayo Vallecano
+582,2026-04-04,19:00,La Liga,,Sat,Home,L,1,2,Barcelona,0.919286,2.68584,,,,,,Match Report,,,,,,,,2026,Atletico Madrid
+583,2026-04-04,19:00,La Liga,,Sat,Away,W,2,1,Atletico Madrid,2.68584,0.919286,,,,,,Match Report,,,,,,,,2026,Barcelona
+584,2026-04-04,16:30,La Liga,,Sat,Away,D,0,0,Real Betis,0.144091,2.00215,,,,,,Match Report,,,,,,,,2026,Espanyol
+585,2026-04-04,12:00,La Liga,,Sat,Away,L,0,2,Real Sociedad,0.320219,2.96404,,,,,,Match Report,,,,,,,,2026,Levante
+586,2026-04-04,14:15,La Liga,,Sat,Home,W,2,1,Real Madrid,1.03875,1.51454,,,,,,Match Report,,,,,,,,2026,Mallorca
+587,2026-04-04,16:30,La Liga,,Sat,Home,D,0,0,Espanyol,2.00215,0.144091,,,,,,Match Report,,,,,,,,2026,Real Betis
+588,2026-04-04,14:15,La Liga,,Sat,Away,L,1,2,Mallorca,1.51454,1.03875,,,,,,Match Report,,,,,,,,2026,Real Madrid
+589,2026-04-04,12:00,La Liga,,Sat,Home,W,2,0,Levante,2.96404,0.320219,,,,,,Match Report,,,,,,,,2026,Real Sociedad
+590,2026-04-05,19:00,La Liga,,Sun,Home,D,2,2,Osasuna,1.65967,1.61149,,,,,,Match Report,,,,,,,,2026,Alaves
+591,2026-04-05,12:00,La Liga,,Sun,Away,L,0,2,Getafe,0.524379,1.96345,,,,,,Match Report,,,,,,,,2026,Athletic Club
+592,2026-04-05,14:15,La Liga,,Sun,Away,W,3,2,Valencia,1.457,0.720964,,,,,,Match Report,,,,,,,,2026,Celta Vigo
+593,2026-04-05,12:00,La Liga,,Sun,Home,W,2,0,Athletic Club,1.96345,0.524379,,,,,,Match Report,,,,,,,,2026,Getafe
+594,2026-04-05,19:00,La Liga,,Sun,Away,D,2,2,Alaves,1.61149,1.65967,,,,,,Match Report,,,,,,,,2026,Osasuna
+595,2026-04-05,16:30,La Liga,,Sun,Home,W,1,0,Sevilla,0.785105,0.840736,,,,,,Match Report,,,,,,,,2026,Real Oviedo
+596,2026-04-05,16:30,La Liga,,Sun,Away,L,0,1,Real Oviedo,0.840736,0.785105,,,,,,Match Report,,,,,,,,2026,Sevilla
+597,2026-04-05,14:15,La Liga,,Sun,Home,L,2,3,Celta Vigo,0.720964,1.457,,,,,,Match Report,,,,,,,,2026,Valencia
+598,2026-04-06,19:00,La Liga,,Mon,Home,W,1,0,Villarreal,0.653493,0.443518,,,,,,Match Report,,,,,,,,2026,Girona
+599,2026-04-06,19:00,La Liga,,Mon,Away,L,0,1,Girona,0.443518,0.653493,,,,,,Match Report,,,,,,,,2026,Villarreal

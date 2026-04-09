@@ -1,0 +1,24 @@
+{
+  "positions": [
+    {
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Courtois_2018_%28cropped%29.jpg",
+      "title": "Goalie",
+      "search": "GK"
+    },
+    {
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3f/FC_Red_Bull_Salzburg_gegen_CF_Barcelona_%28Testspiel_4._August_2021%29_45_%28cropped%29.jpg",
+      "title": "Defender",
+      "search": "D"
+    },
+    {
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/2/26/Jude_Bellingham_2022-11-21_1.jpg",
+      "title": "Midfielder",
+      "search": "M"
+    },
+    {
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Vinicius_Jr_2021.jpg",
+      "title": "Forwards",
+      "search": "F"
+    }
+  ]
+}

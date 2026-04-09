@@ -1,0 +1,81 @@
+date,time,home_team,away_team,home_win_prob,away_win_prob,prediction
+2026-04-10,19:00,Real Madrid,Girona,0.5976,0.1244,Home Win
+2026-04-11,12:00,Real Sociedad,Alaves,0.5198,0.477,Draw
+2026-04-11,14:15,Elche,Valencia,0.5199,0.2402,Home Win
+2026-04-11,16:30,Barcelona,Espanyol,0.7851,0.2974,Home Win
+2026-04-11,19:00,Sevilla,Atletico Madrid,0.5083,0.4794,Draw
+2026-04-12,12:00,Osasuna,Real Betis,0.5728,0.2065,Home Win
+2026-04-12,14:15,Mallorca,Rayo Vallecano,0.4293,0.1025,Home Win
+2026-04-12,16:30,Celta Vigo,Real Oviedo,0.4582,0.305,Home Win
+2026-04-12,19:00,Athletic Club,Villarreal,0.3241,0.4069,Away Win
+2026-04-13,19:00,Levante,Getafe,0.306,0.2186,Home Win
+2026-04-22,19:00,Athletic Club,Osasuna,0.4987,0.5269,Draw
+2026-04-22,19:00,Barcelona,Celta Vigo,0.5654,0.43,Home Win
+2026-04-22,19:00,Elche,Atletico Madrid,0.4587,0.4248,Draw
+2026-04-22,19:00,Girona,Real Betis,0.2671,0.2562,Draw
+2026-04-22,19:00,Levante,Sevilla,0.2688,0.395,Away Win
+2026-04-22,19:00,Mallorca,Valencia,0.4147,0.391,Draw
+2026-04-22,19:00,Rayo Vallecano,Espanyol,0.3451,0.2558,Home Win
+2026-04-22,19:00,Real Madrid,Alaves,0.5723,0.3772,Home Win
+2026-04-22,19:00,Real Oviedo,Villarreal,0.3026,0.4963,Away Win
+2026-04-22,19:00,Real Sociedad,Getafe,0.4068,0.1897,Home Win
+2026-04-26,15:00,Alaves,Mallorca,0.4676,0.3128,Home Win
+2026-04-26,15:00,Atletico Madrid,Athletic Club,0.6871,0.0938,Home Win
+2026-04-26,15:00,Espanyol,Levante,0.386,0.2757,Home Win
+2026-04-26,15:00,Getafe,Barcelona,0.2656,0.5848,Away Win
+2026-04-26,15:00,Osasuna,Sevilla,0.6493,0.4324,Home Win
+2026-04-26,15:00,Rayo Vallecano,Real Sociedad,0.2922,0.3774,Away Win
+2026-04-26,15:00,Real Betis,Real Madrid,0.4072,0.4742,Draw
+2026-04-26,15:00,Real Oviedo,Elche,0.2954,0.3547,Draw
+2026-04-26,15:00,Valencia,Girona,0.4781,0.1842,Home Win
+2026-04-26,15:00,Villarreal,Celta Vigo,0.6352,0.3865,Home Win
+2026-05-03,15:00,Alaves,Athletic Club,0.4771,0.2202,Home Win
+2026-05-03,15:00,Celta Vigo,Elche,0.4559,0.3905,Draw
+2026-05-03,15:00,Espanyol,Real Madrid,0.2635,0.5063,Away Win
+2026-05-03,15:00,Getafe,Rayo Vallecano,0.3571,0.1303,Home Win
+2026-05-03,15:00,Girona,Mallorca,0.3292,0.3014,Draw
+2026-05-03,15:00,Osasuna,Barcelona,0.5565,0.581,Draw
+2026-05-03,15:00,Real Betis,Real Oviedo,0.4639,0.1922,Home Win
+2026-05-03,15:00,Sevilla,Real Sociedad,0.3947,0.369,Draw
+2026-05-03,15:00,Valencia,Atletico Madrid,0.4162,0.4761,Draw
+2026-05-03,15:00,Villarreal,Levante,0.7239,0.2047,Home Win
+2026-05-10,15:00,Athletic Club,Valencia,0.3961,0.3054,Home Win
+2026-05-10,15:00,Atletico Madrid,Celta Vigo,0.6909,0.4055,Home Win
+2026-05-10,15:00,Elche,Alaves,0.5718,0.4377,Home Win
+2026-05-10,15:00,Levante,Osasuna,0.3314,0.5203,Away Win
+2026-05-10,15:00,Mallorca,Villarreal,0.3472,0.4606,Away Win
+2026-05-10,15:00,Rayo Vallecano,Girona,0.313,0.1208,Home Win
+2026-05-10,15:00,Real Oviedo,Getafe,0.3003,0.1032,Home Win
+2026-05-10,15:00,Real Sociedad,Real Betis,0.3562,0.1663,Home Win
+2026-05-10,15:00,Sevilla,Espanyol,0.5372,0.3593,Home Win
+2026-05-10,19:00,Barcelona,Real Madrid,0.6723,0.4535,Home Win
+2026-05-13,19:00,Alaves,Barcelona,0.3487,0.6082,Away Win
+2026-05-13,19:00,Celta Vigo,Levante,0.5128,0.299,Home Win
+2026-05-13,19:00,Espanyol,Athletic Club,0.3853,0.2825,Home Win
+2026-05-13,19:00,Getafe,Mallorca,0.3987,0.2493,Home Win
+2026-05-13,19:00,Girona,Real Sociedad,0.2997,0.3427,Draw
+2026-05-13,19:00,Osasuna,Atletico Madrid,0.4471,0.4164,Draw
+2026-05-13,19:00,Real Betis,Elche,0.4059,0.3265,Draw
+2026-05-13,19:00,Real Madrid,Real Oviedo,0.5188,0.1658,Home Win
+2026-05-13,19:00,Valencia,Rayo Vallecano,0.5456,0.3326,Home Win
+2026-05-13,19:00,Villarreal,Sevilla,0.5286,0.3824,Home Win
+2026-05-17,15:00,Athletic Club,Celta Vigo,0.3554,0.4681,Away Win
+2026-05-17,15:00,Atletico Madrid,Girona,0.7505,0.1089,Home Win
+2026-05-17,15:00,Barcelona,Real Betis,0.7433,0.0927,Home Win
+2026-05-17,15:00,Elche,Getafe,0.5121,0.1404,Home Win
+2026-05-17,15:00,Levante,Mallorca,0.3393,0.3018,Draw
+2026-05-17,15:00,Osasuna,Espanyol,0.6446,0.2653,Home Win
+2026-05-17,15:00,Rayo Vallecano,Villarreal,0.2751,0.4392,Away Win
+2026-05-17,15:00,Real Oviedo,Alaves,0.4495,0.3903,Draw
+2026-05-17,15:00,Real Sociedad,Valencia,0.384,0.2266,Home Win
+2026-05-17,15:00,Sevilla,Real Madrid,0.3943,0.5089,Away Win
+2026-05-24,15:00,Alaves,Rayo Vallecano,0.4261,0.2773,Home Win
+2026-05-24,15:00,Celta Vigo,Sevilla,0.454,0.3933,Draw
+2026-05-24,15:00,Espanyol,Real Sociedad,0.3469,0.3978,Draw
+2026-05-24,15:00,Getafe,Osasuna,0.3597,0.5297,Away Win
+2026-05-24,15:00,Girona,Elche,0.275,0.4643,Away Win
+2026-05-24,15:00,Mallorca,Real Oviedo,0.387,0.2232,Home Win
+2026-05-24,15:00,Real Betis,Levante,0.4626,0.1916,Home Win
+2026-05-24,15:00,Real Madrid,Athletic Club,0.5473,0.1036,Home Win
+2026-05-24,15:00,Valencia,Barcelona,0.425,0.5985,Away Win
+2026-05-24,15:00,Villarreal,Atletico Madrid,0.6104,0.4472,Home Win

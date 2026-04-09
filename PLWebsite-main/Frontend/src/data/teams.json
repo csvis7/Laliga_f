@@ -1,0 +1,84 @@
+{
+  "teams": [
+    {
+      "cover": "/teams/Real-Madrid.png",
+      "title": "Real Madrid"
+    },
+    {
+      "cover": "/teams/Barcelona.png",
+      "title": "Barcelona"
+    },
+    {
+      "cover": "/teams/Atletico-Madrid.png",
+      "title": "Atletico Madrid"
+    },
+    {
+      "cover": "/teams/Athletic-Club.png",
+      "title": "Athletic Club"
+    },
+    {
+      "cover": "/teams/Real-Sociedad.png",
+      "title": "Real Sociedad"
+    },
+    {
+      "cover": "/teams/Real-Betis.png",
+      "title": "Real Betis"
+    },
+    {
+      "cover": "/teams/Villarreal.png",
+      "title": "Villarreal"
+    },
+    {
+      "cover": "/teams/Valencia.png",
+      "title": "Valencia"
+    },
+    {
+      "cover": "/teams/Sevilla.png",
+      "title": "Sevilla"
+    },
+    {
+      "cover": "/teams/Girona.png",
+      "title": "Girona"
+    },
+    {
+      "cover": "/teams/Osasuna.png",
+      "title": "Osasuna"
+    },
+    {
+      "cover": "/teams/Celta-Vigo.png",
+      "title": "Celta Vigo"
+    },
+    {
+      "cover": "/teams/Getafe.png",
+      "title": "Getafe"
+    },
+    {
+      "cover": "/teams/Espanyol.png",
+      "title": "Espanyol"
+    },
+    {
+      "cover": "/teams/Mallorca.png",
+      "title": "Mallorca"
+    },
+    {
+      "cover": "/teams/Rayo-Vallecano.png",
+      "title": "Rayo Vallecano"
+    },
+    {
+      "cover": "/teams/Alaves.png",
+      "title": "Alaves"
+    },
+    {
+      "cover": "/teams/Levante.png",
+      "title": "Levante"
+    },
+    {
+      "cover": "/teams/Elche.png",
+      "title": "Elche"
+    },
+    {
+      "cover": "/teams/Real-Oviedo.png",
+      "title": "Real Oviedo"
+    }
+  ]
+}
