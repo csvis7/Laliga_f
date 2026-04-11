@@ -14,7 +14,8 @@ public class CorsConfig {
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/api/**")
                         .allowedOrigins(
-                                "*"
+                                "https://laliga-f.vercel.app",
+                    "http://localhost:3000"
                         )
                         .allowedMethods("GET","POST", "PUT", "DELETE");
             }
