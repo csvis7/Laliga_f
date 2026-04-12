@@ -10,7 +10,7 @@ const Predictions = () => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:8080/api/v1/predictions")
+      .get("https://laliga-f.onrender.com/api/v1/predictions")
       .then((response) => {
         setRows(response.data || []);
         setLoading(false);
