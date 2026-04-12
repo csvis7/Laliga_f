@@ -6,7 +6,7 @@ LaLigaZone is a comprehensive project designed to scrape match statistics for ov
 
 ![LaLigaZone homepage logo](Frontend/src/assets/images/laliga-logo.png)
 
-You can find the [project here!](https://laligazone.vercel.app/)  
+You can find the [project here!](https://laliga-f.vercel.app/)  
 Note: The backend is currently not being hosted, this will be fixed in one to two business weeks...
 
 ## Features
@@ -16,5 +16,3 @@ Note: The backend is currently not being hosted, this will be fixed in one to tw
 - **Database**: Real-time data manipulation within a Postgres database using SQL queries.
 - **Frontend**: Seamless integration with a user-friendly ReactJS interface.
 - **Machine Learning**: Created a model to predict match outcomes by integrating data scraping with pandas and machine learning with scikit-learn.
-
-
